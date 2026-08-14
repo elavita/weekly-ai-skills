@@ -1,0 +1,38 @@
+{
+  "period": "2026-W33",
+  "generated_at": "2026-08-14T05:47:12.000395+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/trycompai-crm-c6190f3768.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/trycompai/crm"
+    },
+    {
+      "path": "images/genspark-ai-genoffice-fabd671c94.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/genspark-ai/genoffice"
+    },
+    {
+      "path": "images/Jakubantalik-thinking-orbs-4d4372d975.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/Jakubantalik/thinking-orbs"
+    },
+    {
+      "path": "images/QwenAudio-qwen-audio-agent-16d4916d85.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/QwenAudio/qwen-audio-agent"
+    },
+    {
+      "path": "images/makecindy-cindy-03280e0822.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/makecindy/cindy"
+    }
+  ]
+}
