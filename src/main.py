@@ -61,7 +61,7 @@ def prepare_project(repo: dict[str, Any], output: Path, config: dict[str, Any], 
                 "language", "created_at", "updated_at", "topics", "license",
             )
         },
-        "copy": generate_copy(repo, config["zen"], zen_key),
+        "copy": generate_copy(repo, config["zen"], zen_key, config["content"]),
         "image": {
             "path": f"images/{filename}",
             "source": source,
