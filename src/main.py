@@ -37,6 +37,46 @@ def fetch_readme(repo: dict[str, Any], token: str | None, timeout: int) -> str:
         return ""
 
 
+def load_period_projects(path: Path, period: str) -> tuple[int, list[dict[str, Any]]]:
+    if not path.exists():
+        raise ValueError(f"无法强制刷新：找不到本期数据文件 {path}")
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        raise ValueError(f"无法读取本期数据文件: {path}") from exc
+    if not isinstance(data, dict) or data.get("period") != period or not isinstance(data.get("projects"), list):
+        raise ValueError(f"本期数据文件格式不匹配: {path}")
+    seen: set[str] = set()
+    for item in data["projects"]:
+        repository = item.get("repository") if isinstance(item, dict) else None
+        node_id = repository.get("node_id") if isinstance(repository, dict) else None
+        if not node_id or node_id in seen:
+            raise ValueError("本期数据文件包含缺失或重复的项目 node_id")
+        if not isinstance(item.get("image"), dict):
+            raise ValueError("本期数据文件缺少项目图片信息")
+        seen.add(node_id)
+    window_days = data.get("window_days")
+    if not isinstance(window_days, int) or window_days <= 0:
+        raise ValueError("本期数据文件缺少有效的检索窗口")
+    return window_days, data["projects"]
+
+
+def refresh_projects(
+    items: list[dict[str, Any]],
+    config: dict[str, Any],
+    zen_key: str | None,
+) -> list[dict[str, Any]]:
+    refreshed: list[dict[str, Any]] = []
+    for item in items:
+        repository = item["repository"]
+        refreshed.append({
+            "repository": repository,
+            "copy": generate_copy(repository, config["zen"], zen_key, config["content"]),
+            "image": item["image"],
+        })
+    return refreshed
+
+
 def prepare_project(repo: dict[str, Any], output: Path, config: dict[str, Any], token: str | None, zen_key: str | None) -> dict[str, Any]:
     image_config = config["images"]
     readme = fetch_readme(repo, token, config["github"]["request_timeout_seconds"])
@@ -70,7 +110,12 @@ def prepare_project(repo: dict[str, Any], output: Path, config: dict[str, Any], 
     }
 
 
-def run(config_path: Path, dry_run: bool = False, now: datetime | None = None) -> Path:
+def run(
+    config_path: Path,
+    dry_run: bool = False,
+    force_refresh: bool = False,
+    now: datetime | None = None,
+) -> Path:
     root = config_path.resolve().parent
     config = load_config(config_path)
     state_path = root / "state" / "published.json"
@@ -80,17 +125,23 @@ def run(config_path: Path, dry_run: bool = False, now: datetime | None = None) -
     now = now or datetime.now(timezone.utc)
     year, week, _ = now.isocalendar()
     output = root / "reports" / f"{year}-W{week:02d}"
-    if not dry_run and state.get("last_period") == output.name and (output / "report.md").exists():
+    if not force_refresh and not dry_run and state.get("last_period") == output.name and (output / "report.md").exists():
         return output
 
-    searcher = GitHubSearcher(config["github"], token)
-    window_days, repos = searcher.discover(set(state.get("node_ids", [])), now)
-    projects = [prepare_project(repo, output, config, token, zen_key) for repo in repos]
+    repos: list[dict[str, Any]] = []
+    if force_refresh:
+        window_days, existing_projects = load_period_projects(output / "data.json", output.name)
+        projects = refresh_projects(existing_projects, config, zen_key)
+    else:
+        searcher = GitHubSearcher(config["github"], token)
+        window_days, repos = searcher.discover(set(state.get("node_ids", [])), now)
+        projects = [prepare_project(repo, output, config, token, zen_key) for repo in repos]
     _, output = write_outputs(root, projects, window_days, now)
 
     if not dry_run:
         state.setdefault("node_ids", [])
-        state["node_ids"] = list(dict.fromkeys(state["node_ids"] + [repo["node_id"] for repo in repos]))
+        if not force_refresh:
+            state["node_ids"] = list(dict.fromkeys(state["node_ids"] + [repo["node_id"] for repo in repos]))
         state["last_period"] = output.name
         state["updated_at"] = now.isoformat()
         state_path.parent.mkdir(parents=True, exist_ok=True)
@@ -102,13 +153,14 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="生成 AI 技能周报")
     parser.add_argument("--config", default="config.example.json", type=Path)
     parser.add_argument("--dry-run", action="store_true", help="生成报告但不更新 state，也不进行远程操作")
+    parser.add_argument("--force-refresh", action="store_true", help="重新加工本期已有项目并覆盖本期报告")
     return parser.parse_args(argv)
 
 
 def main(argv: list[str] | None = None) -> int:
     args = parse_args(argv)
     try:
-        output = run(args.config, args.dry_run)
+        output = run(args.config, dry_run=args.dry_run, force_refresh=args.force_refresh)
     except (OSError, ValueError, requests.RequestException) as exc:
         print(f"生成失败: {exc}", file=sys.stderr)
         return 1

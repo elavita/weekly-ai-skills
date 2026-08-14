@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "17 1 * * 1"
   workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: "重新加工本期已有项目"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -37,7 +43,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
           ZEN_API_KEY: ${{ secrets.ZEN_API_KEY }}
-        run: python -m src.main --config config.json
+          FORCE_REFRESH: ${{ github.event_name == 'workflow_dispatch' && inputs.force_refresh || false }}
+        shell: bash
+        run: |
+          if [ "$FORCE_REFRESH" = "true" ]; then
+            echo "Force refreshing the current report period"
+            python -m src.main --config config.json --force-refresh
+          else
+            python -m src.main --config config.json
+          fi
 
       - name: Detect report period
         id: period
