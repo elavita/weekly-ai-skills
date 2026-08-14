@@ -1,23 +1,33 @@
 # 小红书文案 2026-W33
 
+本周报汇总近期值得关注的 AI Skill、Agent、MCP 与效率工具，帮助中文开发者快速了解它们的用途并完成初步筛选。内容基于公开仓库信息整理，使用前请自行核验。
+
 ## trycompai/crm
 
-发现一个超酷的开源项目！Comp AI CRM 是专为 AI 智能体设计的 CRM，主打 Agentic-first 架构，用 TypeScript 写成，已经在 GitHub 上收获 8400+ ⭐。如果你对 AI Agent + 客户管理感兴趣，这个项目值得一看 👀✨ #开源项目 #AI工具 #CRM #AIAgent #TypeScript
+Comp AI CRM 是一个面向 AI Agent 的开源 CRM 系统，强调 Agentic-first 设计，让 AI 代理可以直接驱动客户管理流程。项目使用 TypeScript 开发，支持自托管和二次开发，适合希望把 AI Agent 接入真实业务场景的团队。亮点包括原生 Agent 支持、开源可定制以及较高的社区关注度。适用场景包括为 AI Agent 提供客户数据后端、自动化销售与客服流程，以及作为研究 Agentic CRM 架构的参考项目。
 
 ## genspark-ai/genoffice
 
-姐妹们挖到宝了!GenOffice 是一款完全开源免费的 AI 办公套件✨ macOS、Windows、Linux 全平台通吃,Word、Excel、PPT、PDF、Markdown 一个软件全搞定,还内置 AI 代理帮你写文档、改格式,再也不用为办公软件付费啦,学生党和打工人都冲!
+GenOffice 是一款开源的跨平台 AI 办公套件，支持在 macOS、Windows 和 Linux 上编辑 Word、Excel、PowerPoint、PDF 和 Markdown 文档，并内置 AI Agent 辅助办公。
+
+亮点：完全开源免费，覆盖五大主流文档格式；基于 Electron + TypeScript 构建，跨平台体验一致；内置 AI Agent，可在写作、整理与排版等场景提供智能化辅助；可作为 Microsoft Office 的轻量替代方案。
+
+适用场景：需要统一处理多种办公文档的个人或团队；希望降低软件成本、寻找开源办公套件的开发者与中小企业；在不同桌面系统之间切换、要求一致编辑体验的用户；想基于成熟项目二次开发自定义办公工具的工程师。
 
 ## Jakubantalik/thinking-orbs
 
-发现一个超可爱的AI加载动画库✨ Thinking Orbs 专门为AI聊天界面设计，有9种不同风格的点状思考光晕动画，还自动适配深色/浅色模式！做AI产品的前端同学可以直接用，TypeScript写的，2.3k+ star 🌟 装上之后loading状态瞬间高级感拉满～
+Thinking Orbs 是一个为 AI 与智能体界面设计的点阵思维球加载动画组件库。它提供 9 种调优样式与两种尺寸，并自动适配深色与浅色主题，适合用来替代传统 spinner，让等待过程更有质感。亮点包括：9 种可调优动画样式、sm 与 lg 双尺寸、自动深浅色适配、TypeScript 类型支持，以及面向 AI 对话与 Agent 流程的视觉反馈设计。适用场景包括 AI 聊天与 Agent 应用的加载指示、多步骤 Agent 流程的阶段性反馈、主题切换界面中的统一加载体验，以及作为可复用组件集成到前端项目。
 
 ## QwenAudio/qwen-audio-agent
 
-挖到一个超酷的开源项目✨ QwenAudio/qwen-audio-agent —— 给 AI Agent 装上「实时语音大脑」🧠🎙️ 它能让 Agent 持续说话、持续工作、持续在线，像真人一样和你语音聊天～ 亮点速览👇 🔹 实时语音运行时，Agent 永远不冷场 🔹 ASR + TTS 全链路打通 🔹 兼容 Claude Code、Codex、OpenCode 等热门 AI 编程工具 🔹 支持 ACP 多 Agent 协作 🔹 JavaScript 实现，Star 已破 2k🌟 适合做语音编程助手、值守 Agent、陪伴型 AI，开发者狂喜！#AI工具 #开源项目 #语音Agent #AI编程 #开发者工具
+QwenAudio/qwen-audio-agent 是一个面向 AI Agent 的实时语音运行时，让 Agent 能够像真人一样持续进行语音对话。它在 Agent 与用户之间提供低延迟的语音识别与语音合成通道，支持边听边说、边工作边交流的交互模式。
+
+亮点：实时语音运行时专为 AI Agent 设计，强调低延迟与持续在线；端到端集成 ASR 与 TTS，打通语音输入到 Agent 再到语音输出的完整链路；与 ACP、Claude Code、Codex、OpenCode 等主流 Agent 与编码工具兼容，可作为语音接入层；使用 JavaScript 实现，便于在 Node.js 与前端环境中集成；基于 QwenAudio 开源体系，支持自定义语音模型与交互流程。
+
+适用场景：为编码 Agent 增加语音交互能力，实现边说边写代码；为客服、销售等对话 Agent 提供实时语音通道；本地或私有化部署可定制的语音助手，集成到 IDE、终端或 Web 应用；作为研究平台探索 Agentic AI 在多模态语音场景下的交互；为无障碍或移动场景提供语音优先的 Agent 接入方式。
 
 ## makecindy/cindy
 
-发现一个值得关注的 AI 项目：makecindy/cindy。Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 发布前请先核对许可证和数据安全要求。
+Cindy 是一款开源、开箱即用的 AI Agent 应用，基于 Electron 与 React Native 构建，覆盖 macOS、Windows、iOS 与 Android。它集成了 Claude Code、Codex 等大模型能力，主打用自然语言驱动 Agent 完成各类任务，适合想快速拥有本地化 AI Agent 体验的个人开发者和跨端用户。
 
 本周报仅整理公开信息，不代表安全审计或使用推荐；引入项目前请核对许可证、权限和数据处理方式。
