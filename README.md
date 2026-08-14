@@ -17,10 +17,11 @@ python -m venv .venv
 python -m pip install -r requirements-dev.txt
 python -m src.main --config config.json --dry-run
 python -m src.main --config config.json
+python -m src.main --config config.json --force-refresh
 pytest
 ```
 
-`--dry-run` 会生成当期 `reports/` 文件用于检查，但不会写入 `state/published.json`，也不会提交、推送或发布远程内容。CLI 本身从不执行 Git 提交；提交和 Issue 发布只存在于 Actions 工作流中。
+`--dry-run` 会生成当期 `reports/` 文件用于检查，但不会写入 `state/published.json`，也不会提交、推送或发布远程内容。`--force-refresh` 从本期已有的 `data.json` 读取项目列表，仅重新调用模型加工文案并覆盖本期报告；它不会重新搜索项目、改变历史去重列表或重新下载图片。CLI 本身从不执行 Git 提交；提交和 Issue 发布只存在于 Actions 工作流中。
 
 本地 GitHub API 未认证限额较低。可通过环境变量 `GITHUB_TOKEN` 提供低权限令牌；不要把令牌写入配置或提交到仓库。
 
@@ -54,7 +55,7 @@ pytest
 `.github/workflows/weekly.yml` 支持：
 
 - 每周一北京时间 09:17 执行，对应 cron `17 1 * * 1`（GitHub cron 使用 UTC）。
-- 手动 `workflow_dispatch`。
+- 手动 `workflow_dispatch`，可勾选“重新加工本期已有项目”强制刷新本期文案。
 - `permissions: contents: write` 和 `issues: write`。
 - 同分支 concurrency，防止定时与手动任务并行重复生成。
 - 同一 ISO 周已经发布时直接复用结果；历史项目按 `state/published.json` 的 `node_id` 去重。
