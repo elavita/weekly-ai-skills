@@ -1,6 +1,6 @@
 # AI 技能周报工作流
 
-这是一个可直接上传到公开 GitHub 仓库的 Python 3.11 项目。它每周检索新创建且已有一定关注度的 AI skill、Agent、MCP 和 AI tool 仓库，生成中文周报、两个社交平台文案、结构化数据与配图，并通过 GitHub Actions 提交结果和创建或更新当期 Issue。
+这是一个可直接上传到公开 GitHub 仓库的 Python 3.11 项目。它每周检索新创建且已有一定关注度的 AI skill、Agent、MCP 和 AI tool 仓库，先用模型将项目元数据加工为简体中文，再生成周报、两个社交平台文案、结构化数据与配图，并通过 GitHub Actions 提交结果和创建或更新当期 Issue。每期文档开头会说明周报用途，每个项目先用摘要回答“这个项目是做什么的”，再列出亮点和适用场景。
 
 ## 安全边界
 
@@ -36,9 +36,9 @@ pytest
 
 `.env.example` 仅列出环境变量名称。程序不会自动读取 `.env`，避免意外将密钥带入子进程；请在 shell 或 GitHub Secrets 中设置。
 
-## OpenCode Zen
+## 模型接口
 
-默认地址为 `https://opencode.ai/zen/v1`，模型为 `deepseek-v4-flash-free`，请求路径为 `/chat/completions`，密钥读取自 `ZEN_API_KEY`。认证 header 和 scheme 可在配置中调整。提示词要求严格 JSON，程序还会校验必需字段和类型。
+当前配置使用 NVIDIA 的 OpenAI Chat Completions 兼容接口 `https://integrate.api.nvidia.com/v1` 和模型 `minimaxai/minimax-m3`，请求路径为 `/chat/completions`，密钥读取自 `ZEN_API_KEY`。认证 header 和 scheme 可在配置中调整。提示词要求严格 JSON，并根据 `content.language` 和 `content.audience` 将英文项目简介归纳、翻译和润色为中文；项目名、技术名及 API 名称可以保留原文。程序还会校验必需字段、非空文本和列表内容。
 
 没有密钥、请求失败、超时、返回非 JSON 或校验失败时，程序固定使用以下结构化模板降级，不中断整期生成：
 

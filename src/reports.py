@@ -7,6 +7,10 @@ from typing import Any
 
 
 DISCLAIMER = "本周报仅整理公开信息，不代表安全审计或使用推荐；引入项目前请核对许可证、权限和数据处理方式。"
+REPORT_INTRO = (
+    "本周报汇总近期值得关注的 AI Skill、Agent、MCP 与效率工具，"
+    "帮助中文开发者快速了解它们的用途并完成初步筛选。内容基于公开仓库信息整理，使用前请自行核验。"
+)
 
 
 def period_id(now: datetime) -> str:
@@ -21,7 +25,14 @@ def _age_label(created_at: str, now: datetime) -> str:
 
 
 def build_report(period: str, projects: list[dict[str, Any]], window_days: int, now: datetime) -> str:
-    lines = [f"# AI 技能周报 {period}", "", f"检索窗口：近 {window_days} 天。精选 {len(projects)} 个未发布项目。", ""]
+    lines = [
+        f"# AI 技能周报 {period}",
+        "",
+        REPORT_INTRO,
+        "",
+        f"检索窗口：近 {window_days} 天。精选 {len(projects)} 个未发布项目。",
+        "",
+    ]
     if not projects:
         lines.extend(["本期在配置的窗口和历史去重条件下没有找到合适的新项目。", ""])
     for index, item in enumerate(projects, 1):
@@ -32,6 +43,8 @@ def build_report(period: str, projects: list[dict[str, Any]], window_days: int, 
             f"![{repo['full_name']}]({item['image']['path']})",
             "",
             f"**{_age_label(repo['created_at'], now)}** · {repo.get('stargazers_count', 0):,} Stars · {repo.get('language') or '语言未标注'}",
+            "",
+            "**它是做什么的：**",
             "",
             copy["summary"],
             "",
@@ -46,7 +59,7 @@ def build_report(period: str, projects: list[dict[str, Any]], window_days: int, 
 
 
 def build_social(title: str, projects: list[dict[str, Any]], field: str, period: str) -> str:
-    lines = [f"# {title} {period}", ""]
+    lines = [f"# {title} {period}", "", REPORT_INTRO, ""]
     for item in projects:
         lines.extend([f"## {item['repository']['full_name']}", "", item["copy"][field], ""])
     lines.extend([DISCLAIMER, ""])

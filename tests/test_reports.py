@@ -38,7 +38,15 @@ def test_writes_all_report_artifacts(tmp_path):
     assert period == "2026-W33"
     expected = {"report.md", "data.json", "xiaohongshu.md", "xiaoheihe.md", "manifest.json"}
     assert expected.issubset({path.name for path in output.iterdir()})
-    assert "近 13 天创建" in (output / "report.md").read_text(encoding="utf-8")
+    report = (output / "report.md").read_text(encoding="utf-8")
+    xiaohongshu = (output / "xiaohongshu.md").read_text(encoding="utf-8")
+    xiaoheihe = (output / "xiaoheihe.md").read_text(encoding="utf-8")
+    intro = "本周报汇总近期值得关注的 AI Skill、Agent、MCP 与效率工具"
+    assert "近 13 天创建" in report
+    assert intro in report
+    assert intro in xiaohongshu
+    assert intro in xiaoheihe
+    assert report.index("**它是做什么的：**") < report.index("项目摘要") < report.index("亮点：")
     data = json.loads((output / "data.json").read_text(encoding="utf-8"))
     manifest = json.loads((output / "manifest.json").read_text(encoding="utf-8"))
     assert data["projects"][0]["repository"]["node_id"] == "R_1"
