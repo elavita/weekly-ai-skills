@@ -1,0 +1,252 @@
+{
+  "period": "2026-W34",
+  "generated_at": "2026-08-17T02:34:53.136122+00:00",
+  "window_days": 30,
+  "projects": [
+    {
+      "repository": {
+        "node_id": "R_kgDOTeOzSA",
+        "full_name": "NVIDIA-NeMo/labs-OO-Agents",
+        "html_url": "https://github.com/NVIDIA-NeMo/labs-OO-Agents",
+        "description": "NVIDIA Object Oriented Agents: the Pythonic way to build AI Agents.",
+        "stargazers_count": 1657,
+        "language": "Python",
+        "created_at": "2026-07-20T15:48:25Z",
+        "updated_at": "2026-08-17T00:11:12Z",
+        "topics": [],
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        }
+      },
+      "copy": {
+        "summary": "NVIDIA NeMo 推出的面向对象智能体框架，用 Python 面向对象的方式构建和组合 AI Agent，强调以类与对象组织 Agent 逻辑，便于复用、扩展和工程化集成。",
+        "highlights": [
+          "采用面向对象范式编写 Agent，将行为、状态与工具封装在类中，结构清晰且易于继承复用",
+          "由 NVIDIA NeMo 团队开源，依托 NeMo 生态在模型与推理能力上的积累",
+          "提供 Pythonic 的 API，降低 Agent 框架的学习与接入成本",
+          "支持对 Agent 进行模块化组合，便于构建复杂多步骤工作流",
+          "面向生产场景设计，强调可维护性与可扩展性"
+        ],
+        "use_cases": [
+          "快速搭建可复用的自定义 AI Agent 并集成到现有 Python 项目",
+          "在企业应用中以面向对象方式组织多 Agent 协作与工具调用流程",
+          "作为 NeMo 生态的一部分，用于需要结合大模型的自动化任务编排",
+          "教学与研究场景中演示 Agent 的结构化设计与工程化实现"
+        ],
+        "xiaohongshu": "NVIDIA NeMo 开源的面向对象 Agent 框架，主打用 Python 类的方式来组织 AI Agent 的状态、行为和工具调用，结构清晰、易于复用和扩展，适合想把 Agent 工程化落地的开发者。亮点包括 Pythonic 的 API 设计、模块化的 Agent 组合能力，以及与 NeMo 生态的结合。适合需要构建可维护自定义 Agent、进行多 Agent 协作，或在企业应用中集成大模型自动化的团队。",
+        "xiaoheihe": "NVIDIA NeMo 推出的面向对象 Agent 框架 labs-OO-AgAgents，把 Agent 的逻辑封装到 Python 类中，强调继承、组合与模块化，方便在生产项目中复用和扩展。核心特性是 Pythonic 的 API、清晰的 Agent 结构设计，以及与 NeMo 模型生态的集成。典型场景包括自定义 Agent 开发、多 Agent 工作流编排，以及在企业级 Python 项目中集成大模型能力。",
+        "generation": "zen"
+      },
+      "image": {
+        "path": "images/NVIDIA-NeMo-labs-OO-Agents-1c946fc5eb.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/NVIDIA-NeMo/labs-OO-Agents"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOTjXyfw",
+        "full_name": "VictorTaelin/OptMem",
+        "html_url": "https://github.com/VictorTaelin/OptMem",
+        "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+        "stargazers_count": 1259,
+        "language": "Python",
+        "created_at": "2026-07-25T16:58:43Z",
+        "updated_at": "2026-08-17T00:43:39Z",
+        "topics": [],
+        "license": null
+      },
+      "copy": {
+        "summary": "OptMem 是一个面向 AI Agent 的轻量级永久记忆方案，通过约 426 token 的提示词与配套脚本，让 Agent 在不依赖外部数据库的情况下获得跨会话的稳定记忆能力。",
+        "highlights": [
+          "极简集成：仅需一段约 426 token 的提示词加一个脚本即可接入，开箱即用",
+          "无外部依赖：不依赖向量数据库或第三方存储，记忆以文本形式持久化",
+          "跨会话持久：让 AI Agent 在多次对话或重启后仍能保留上下文与历史信息",
+          "可定制性强：提示词结构清晰，便于开发者按需调整记忆策略与字段",
+          "资源占用低：相比传统 RAG 或向量库方案，token 与算力开销更小"
+        ],
+        "use_cases": [
+          "为个人或小型 AI Agent 项目快速添加长期记忆能力",
+          "在受限环境（如边缘设备、低 token 预算）中实现持久化上下文",
+          "作为教学或实验样例，帮助开发者理解 Agent 记忆机制的设计思路",
+          "用于本地脚本类 Agent，避免部署和维护向量数据库的复杂度",
+          "在多轮对话产品中保持用户偏好、历史任务等信息的连续性"
+        ],
+        "xiaohongshu": "OptMem 是一个为 AI Agent 提供永久记忆能力的轻量方案，核心是一段约 426 token 的提示词加上一个脚本，无需向量数据库或外部存储即可让 Agent 跨会话保留上下文。亮点在于极简集成、低资源占用和可定制的记忆结构，适合个人项目或低预算场景。典型用法包括为本地脚本 Agent 添加长期记忆、在受限环境中维持对话连续性，以及作为学习 Agent 记忆机制的参考实现。",
+        "xiaoheihe": "OptMem 解决的是 AI Agent 缺乏持久记忆的问题，通过约 426 token 的提示词加脚本实现即插即用的跨会话记忆，不依赖向量库或外部服务。技术亮点包括极简部署、无外部依赖、低 token 开销以及结构化的提示词设计，便于按需扩展。适用场景涵盖个人 Agent 项目、本地脚本化 Agent、低资源环境下的上下文保持，以及作为 Agent 记忆机制的实验与教学样例。",
+        "generation": "zen"
+      },
+      "image": {
+        "path": "images/VictorTaelin-OptMem-0a39a35e4a.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOTlGH9A",
+        "full_name": "petergyang/human-review",
+        "html_url": "https://github.com/petergyang/human-review",
+        "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
+        "stargazers_count": 1024,
+        "language": "JavaScript",
+        "created_at": "2026-07-27T14:58:36Z",
+        "updated_at": "2026-08-17T02:34:39Z",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "codex",
+          "feedback",
+          "html",
+          "human-in-the-loop",
+          "markdown",
+          "review"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "human-review 是一个面向 AI Agent 工作流的可视化反馈工具，让用户像编辑 Google Doc 一样在浏览器中批注 HTML 和 Markdown 文件，并将结构化评论回传给 Claude Code、Codex 等 AI 编程助手，实现人在回路的协作审阅。",
+        "highlights": [
+          "可视化批注界面：直接在浏览器中打开 HTML 或 Markdown 文件，以类似 Google Doc 的方式高亮选区并添加评论",
+          "结构化反馈回传：评论以可解析的格式发送给 AI Agent，便于模型理解修改位置与意图",
+          "兼容主流 AI 编程工具：可作为 Claude Code、Codex 等 AI 编程助手的扩展组件嵌入现有工作流",
+          "支持 HTML 与 Markdown 双格式：覆盖文档、报告、博客等常见内容类型的审阅场景",
+          "人在回路设计：把人工审阅环节无缝接入 AI 自动生成流程，提升输出质量与可控性"
+        ],
+        "use_cases": [
+          "AI 生成文档或网页后，由人工在浏览器中逐段批注，再让 AI Agent 根据评论自动修订",
+          "团队使用 Claude Code 或 Codex 开发项目时，对生成的 Markdown 报告或 HTML 页面进行可视化评审",
+          "内容创作者借助 AI 起草文章后，通过可视化批注快速给出修改意见并回传给 AI 继续迭代",
+          "作为 Human-in-the-Loop 中间层，在自动化流水线中插入人工把关环节，降低 AI 输出风险"
+        ],
+        "xiaohongshu": "human-review 是一个让 AI Agent 工作流加入人工审阅环节的可视化工具。它可以在浏览器中打开 HTML 或 Markdown 文件，像 Google Doc 一样选中内容并添加评论，再把结构化反馈回传给 Claude Code、Codex 等 AI 编程助手。亮点包括可视化批注界面、结构化反馈回传、兼容主流 AI 编程工具、支持 HTML 与 Markdown 双格式，以及人在回路设计。适合需要让 AI 生成文档或网页后由人工把关的开发者与团队，也可用作自动化流水线中的质量审核中间层。",
+        "xiaoheihe": "human-review 是一个面向 AI Agent 的可视化反馈工具，用于在浏览器中批注 HTML 与 Markdown 文件并将评论回传给 AI 编程助手。核心能力包括类 Google Doc 的可视化批注、结构化反馈输出、与 Claude Code 和 Codex 等工具的集成，以及对人在回路协作流程的支持。典型场景包括 AI 生成内容后的人工修订、团队对 AI 输出物的评审，以及在自动化流水线中插入人工审核环节。",
+        "generation": "zen"
+      },
+      "image": {
+        "path": "images/petergyang-human-review-3c48424f2b.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOTj_alw",
+        "full_name": "miuuyy/codex-chatgpt-web",
+        "html_url": "https://github.com/miuuyy/codex-chatgpt-web",
+        "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
+        "stargazers_count": 987,
+        "language": "TypeScript",
+        "created_at": "2026-07-26T13:04:44Z",
+        "updated_at": "2026-08-17T02:23:30Z",
+        "topics": [
+          "chatgpt",
+          "chatgpt-pro",
+          "codex",
+          "free-ai",
+          "macos",
+          "mcp",
+          "openai",
+          "playwright",
+          "responses-api",
+          "typescript"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "一个把 ChatGPT Web（含 Pro）封装为 Codex 原生模型的桥接工具，让 Codex 能突破使用额度限制，获得上下文、工具调用、流式输出和图像等能力。",
+        "highlights": [
+          "将 ChatGPT Web 作为后端接入 Codex，绕过 Codex 的使用额度限制",
+          "支持上下文保持、工具调用、流式响应和图像输入输出",
+          "基于 TypeScript 实现，使用 Playwright 自动化浏览器与 Responses API 对接",
+          "兼容 ChatGPT Pro 账号，提供 MCP 相关能力扩展",
+          "面向 macOS 等本地开发环境，便于在 Codex 应用中直接使用"
+        ],
+        "use_cases": [
+          "在 Codex 中使用 ChatGPT Pro 模型而消耗 Pro 额度而非 Codex 额度",
+          "需要长上下文或多模态（图像）输入输出的开发任务",
+          "希望把 ChatGPT Web 的能力接入到现有 Codex 工作流的开发者",
+          "在本地 macOS 环境搭建自定义 AI 编程助手后端",
+          "通过 MCP 扩展为 Codex 增加更多工具和外部能力"
+        ],
+        "xiaohongshu": "项目摘要：这是一个把 ChatGPT Web（含 Pro）封装为 Codex 原生模型的桥接工具，让 Codex 能突破使用额度限制，获得上下文、工具调用、流式输出和图像等能力。\n\n亮点：基于 TypeScript 与 Playwright 自动化浏览器，把 ChatGPT Web 作为后端接入 Codex；支持上下文保持、工具调用、流式响应和图像输入输出；兼容 ChatGPT Pro 账号，提供 MCP 相关能力扩展；面向 macOS 等本地开发环境，便于在 Codex 应用中直接使用。\n\n适用场景：在 Codex 中使用 ChatGPT Pro 模型而消耗 Pro 额度；需要长上下文或多模态输入输出的开发任务；希望把 ChatGPT Web 能力接入现有 Codex 工作流的开发者；在本地 macOS 环境搭建自定义 AI 编程助手后端；通过 MCP 扩展为 Codex 增加更多工具和外部能力。",
+        "xiaoheihe": "项目摘要：这是一个把 ChatGPT Web（含 Pro）封装为 Codex 原生模型的桥接工具，让 Codex 能突破使用额度限制，获得上下文、工具调用、流式输出和图像等能力。\n\n亮点：基于 TypeScript 与 Playwright 自动化浏览器，把 ChatGPT Web 作为后端接入 Codex；支持上下文保持、工具调用、流式响应和图像输入输出；兼容 ChatGPT Pro 账号，提供 MCP 相关能力扩展；面向 macOS 等本地开发环境，便于在 Codex 应用中直接使用。\n\n适用场景：在 Codex 中使用 ChatGPT Pro 模型而消耗 Pro 额度；需要长上下文或多模态输入输出的开发任务；希望把 ChatGPT Web 能力接入现有 Codex 工作流的开发者；在本地 macOS 环境搭建自定义 AI 编程助手后端；通过 MCP 扩展为 Codex 增加更多工具和外部能力。",
+        "generation": "zen"
+      },
+      "image": {
+        "path": "images/miuuyy-codex-chatgpt-web-84fe58be7e.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOTd7AaA",
+        "full_name": "pireel/pireel",
+        "html_url": "https://github.com/pireel/pireel",
+        "description": "The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP.",
+        "stargazers_count": 931,
+        "language": "TypeScript",
+        "created_at": "2026-07-20T09:34:24Z",
+        "updated_at": "2026-08-16T16:18:13Z",
+        "topics": [
+          "ai-video",
+          "capcut",
+          "captions",
+          "chatcut",
+          "hyperframes",
+          "openchatcut",
+          "talking-head",
+          "video-editor"
+        ],
+        "license": {
+          "key": "agpl-3.0",
+          "name": "GNU Affero General Public License v3.0",
+          "spdx_id": "AGPL-3.0",
+          "url": "https://api.github.com/licenses/agpl-3.0",
+          "node_id": "MDc6TGljZW5zZTE="
+        }
+      },
+      "copy": {
+        "summary": "Pireel 是一个开源 AI 视频剪辑工具，作为剪映和 ChatCut 的替代方案，可通过 MCP 协议被任意 AI Agent 驱动，实现对话式或自动化的视频编辑。",
+        "highlights": [
+          "开源替代剪映与 ChatCut，降低商业工具依赖",
+          "支持 MCP 协议，可被任意 AI Agent 调用和编排",
+          "聚焦 AI 视频场景，涵盖字幕、对话剪辑、关键帧（hyperframes）、口播（talking-head）等能力",
+          "基于 TypeScript 开发，便于二次开发和集成"
+        ],
+        "use_cases": [
+          "通过 AI Agent 自动生成视频字幕与剪辑",
+          "用自然语言指令驱动视频编辑流程",
+          "作为开源底座二次开发定制化视频工具",
+          "集成到自动化内容生产流水线中"
+        ],
+        "xiaohongshu": "Pireel 是一个开源 AI 视频剪辑工具，作为剪映和 ChatCut 的替代方案，可通过 MCP 协议被任意 AI Agent 驱动。\n\n亮点：开源替代剪映与 ChatCut；支持 MCP 协议，可被任意 AI Agent 调用；覆盖字幕、对话剪辑、关键帧、口播等 AI 视频场景；TypeScript 实现，便于二次开发。\n\n适用场景：希望通过 AI Agent 自动生成字幕与剪辑的团队；想用自然语言指令驱动视频编辑流程的创作者；需要在自有产品中集成视频编辑能力并希望避免商业工具绑定的开发者。",
+        "xiaoheihe": "Pireel 是一个开源 AI 视频剪辑工具，作为剪映和 ChatCut 的替代方案，可通过 MCP 协议被任意 AI Agent 驱动。\n\n亮点：开源替代剪映与 ChatCut；支持 MCP 协议，可被任意 AI Agent 调用；覆盖字幕、对话剪辑、关键帧、口播等 AI 视频场景；TypeScript 实现，便于二次开发。\n\n适用场景：希望通过 AI Agent 自动生成字幕与剪辑的团队；想用自然语言指令驱动视频编辑流程的创作者；需要在自有产品中集成视频编辑能力并希望避免商业工具绑定的开发者。",
+        "generation": "zen"
+      },
+      "image": {
+        "path": "images/pireel-pireel-03909dd7f8.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    }
+  ]
+}

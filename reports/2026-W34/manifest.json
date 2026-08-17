@@ -1,0 +1,38 @@
+{
+  "period": "2026-W34",
+  "generated_at": "2026-08-17T02:34:53.136122+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/NVIDIA-NeMo-labs-OO-Agents-1c946fc5eb.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/NVIDIA-NeMo/labs-OO-Agents"
+    },
+    {
+      "path": "images/VictorTaelin-OptMem-0a39a35e4a.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/petergyang-human-review-3c48424f2b.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/miuuyy-codex-chatgpt-web-84fe58be7e.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/pireel-pireel-03909dd7f8.png",
+      "source": "本地信息卡",
+      "source_url": null
+    }
+  ]
+}
