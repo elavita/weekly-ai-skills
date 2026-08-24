@@ -1,0 +1,38 @@
+{
+  "period": "2026-W35",
+  "generated_at": "2026-08-24T02:38:10.668938+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/yetone-cumora-d0c7f42e4f.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/yetone/cumora/main/website/assets/product-screenshot.png"
+    },
+    {
+      "path": "images/CopilotKit-OpenBot-74c1a94615.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/CopilotKit/OpenBot"
+    },
+    {
+      "path": "images/fuxicodex-Fuxi-01bc01019b.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/fuxicodex/Fuxi/main/docs/fuxi-demo.gif"
+    },
+    {
+      "path": "images/Leonxlnx-unlazy-c81583343a.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/Leonxlnx/unlazy"
+    },
+    {
+      "path": "images/cinderline-northcinder-843123605b.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/cinderline/northcinder"
+    }
+  ]
+}

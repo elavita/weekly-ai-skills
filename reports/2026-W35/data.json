@@ -1,0 +1,261 @@
+{
+  "period": "2026-W35",
+  "generated_at": "2026-08-24T02:38:10.668938+00:00",
+  "window_days": 30,
+  "projects": [
+    {
+      "repository": {
+        "node_id": "R_kgDOT6_72Q",
+        "full_name": "yetone/cumora",
+        "html_url": "https://github.com/yetone/cumora",
+        "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+        "stargazers_count": 2966,
+        "language": "TypeScript",
+        "created_at": "2026-08-17T09:13:52Z",
+        "updated_at": "2026-08-24T02:30:27Z",
+        "topics": [],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "Cumora 是一个面向 AI Agent 团队的跨平台协作聊天平台，将 AI Agent 作为一等成员接入团队沟通中，支持接入云端模型或自带 Claude Code、Codex 等执行环境。",
+        "highlights": [
+          "将 AI Agent 视为团队的一等成员，与人类成员在同一聊天空间中协作",
+          "支持跨平台使用，方便团队在不同设备上保持一致的工作流",
+          "提供云端模型接入，同时允许用户自带 Claude Code、Codex 等 Agent 执行环境",
+          "基于 TypeScript 构建，便于二次开发和集成",
+          "聚焦 Agent 团队协作场景，强调 Agent 之间的协同与调度"
+        ],
+        "use_cases": [
+          "组建由多个 AI Agent 组成的开发或研究团队进行协同任务",
+          "在团队聊天中直接调用 Claude Code 或 Codex 等编码 Agent 完成代码任务",
+          "将企业内部不同来源的 Agent 统一接入到一个聊天平台进行管理",
+          "作为 Agent 协作框架的实验平台，探索多 Agent 沟通与分工模式"
+        ],
+        "xiaohongshu": "Cumora 是一个面向 AI Agent 团队的跨平台协作聊天平台，把 AI Agent 作为一等成员加入团队沟通中。它既支持接入云端模型，也允许用户自带 Claude Code、Codex 等 Agent 执行环境，方便把不同来源的 Agent 统一管理。亮点在于跨平台体验、Agent 一等公民设计，以及对自带执行环境的开放支持。适合需要协调多个 AI Agent 协作的开发者、研究者和团队，也可以作为多 Agent 沟通与分工模式的实验平台。",
+        "xiaoheihe": "Cumora 是一个面向 AI Agent 团队的跨平台协作聊天平台，把 AI Agent 作为一等成员接入团队沟通中。它支持云端模型接入，也允许用户自带 Claude Code、Codex 等 Agent 执行环境，方便统一管理不同来源的 Agent。核心亮点包括跨平台使用、Agent 一等公民设计，以及对自带执行环境的开放支持。适用场景包括组建多 Agent 开发或研究团队、在聊天中直接调用编码 Agent 完成代码任务，以及作为多 Agent 协作框架的实验平台。",
+        "generation": "zen"
+      },
+      "image": {
+        "path": "images/yetone-cumora-d0c7f42e4f.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/yetone/cumora/main/website/assets/product-screenshot.png"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOT6ln0w",
+        "full_name": "CopilotKit/OpenBot",
+        "html_url": "https://github.com/CopilotKit/OpenBot",
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "stargazers_count": 2516,
+        "language": "TypeScript",
+        "created_at": "2026-08-17T00:44:59Z",
+        "updated_at": "2026-08-24T02:36:14Z",
+        "topics": [
+          "ag-ui",
+          "agent-governance",
+          "ai-agents",
+          "browser-automation",
+          "copilotkit",
+          "generative-ui",
+          "mcp"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "OpenBot 是 CopilotKit 开源的 AI 数字员工平台，为每个 Agent 分配独立的浏览器、文件系统和工具环境，所有动作在执行前需审批、执行后留痕，可接入任何符合 AG-UI 协议的 Agent。",
+        "highlights": [
+          "为每个 AI Agent 提供独立的浏览器、文件系统和工具沙箱，实现多 Agent 并行隔离运行",
+          "所有操作执行前需审批、执行后完整记录，满足企业级 Agent 治理与合规审计需求",
+          "原生支持 AG-UI 协议，可接入任意兼容 AG-UI 的 Agent，并集成 MCP 工具生态",
+          "基于 TypeScript 构建，提供生成式 UI 能力，便于在前端嵌入和定制 Agent 交互界面",
+          "由 CopilotKit 团队开源，聚焦 AI 数字员工场景，区别于传统聊天机器人框架"
+        ],
+        "use_cases": [
+          "为团队部署可审计、可管控的 AI 数字员工，处理重复性办公任务",
+          "在隔离沙箱中运行浏览器自动化 Agent，避免对生产环境造成副作用",
+          "作为企业级 Agent 治理平台，统一接入符合 AG-UI 协议的多种 Agent 与 MCP 工具",
+          "在客服、数据录入、报表生成等场景中，让 AI 员工代替人工操作浏览器和文件系统",
+          "为前端应用快速集成生成式 UI 与 Agent 交互能力，构建 Copilot 类产品"
+        ],
+        "xiaohongshu": "OpenBot 是 CopilotKit 开源的 AI 数字员工平台，给每个 Agent 配一台独立电脑：浏览器、文件、工具全配齐，所有动作执行前要审批、执行后留痕，支持接入任何 AG-UI Agent。亮点在于多 Agent 沙箱隔离、完整审计日志、原生 AG-UI 与 MCP 集成、TypeScript + 生成式 UI 便于前端嵌入。适合需要可治理 AI 员工的企业团队、浏览器自动化场景，以及想快速搭建 Copilot 类产品的开发者。",
+        "xiaoheihe": "OpenBot（CopilotKit 开源）定位为可治理的 AI 数字员工运行时：每个 Agent 拥有独立浏览器、文件系统和工具环境，行动前审批、行动后记录，兼容 AG-UI 协议与 MCP 工具生态。核心能力包括 Agent 沙箱隔离、审计追溯、生成式 UI 集成与 TypeScript 技术栈。典型用途：企业部署可审计的 AI 员工处理办公自动化、浏览器操作任务，以及作为统一接入层管理多 Agent 系统。",
+        "generation": "zen"
+      },
+      "image": {
+        "path": "images/CopilotKit-OpenBot-74c1a94615.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/CopilotKit/OpenBot"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOTtYOhA",
+        "full_name": "fuxicodex/Fuxi",
+        "html_url": "https://github.com/fuxicodex/Fuxi",
+        "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
+        "stargazers_count": 1922,
+        "language": "Python",
+        "created_at": "2026-08-04T07:32:11Z",
+        "updated_at": "2026-08-24T02:33:48Z",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-coding",
+          "autonomous-agent",
+          "cli",
+          "code-assistant",
+          "coding-agent",
+          "coding-assistant",
+          "developer-tool",
+          "developer-tools",
+          "go",
+          "golang",
+          "llm",
+          "mcp",
+          "openai-compatible",
+          "productivity",
+          "terminal",
+          "terminal-app",
+          "tui"
+        ],
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
+        "highlights": [
+          "GitHub Stars：1,922",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.\n\n项目：fuxicodex/Fuxi。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.\n\n项目：fuxicodex/Fuxi（1,922 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/fuxicodex-Fuxi-01bc01019b.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/fuxicodex/Fuxi/main/docs/fuxi-demo.gif"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOTzsV5w",
+        "full_name": "Leonxlnx/unlazy",
+        "html_url": "https://github.com/Leonxlnx/unlazy",
+        "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+        "stargazers_count": 1736,
+        "language": "JavaScript",
+        "created_at": "2026-08-09T23:39:12Z",
+        "updated_at": "2026-08-24T02:35:46Z",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "llm",
+          "productivity",
+          "prompt-engineering",
+          "skill"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+        "highlights": [
+          "GitHub Stars：1,736",
+          "主要语言：JavaScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.\n\n项目：Leonxlnx/unlazy。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.\n\n项目：Leonxlnx/unlazy（1,736 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/Leonxlnx-unlazy-c81583343a.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/Leonxlnx/unlazy"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOT7Jc2w",
+        "full_name": "cinderline/northcinder",
+        "html_url": "https://github.com/cinderline/northcinder",
+        "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+        "stargazers_count": 1207,
+        "language": "JavaScript",
+        "created_at": "2026-08-17T11:42:31Z",
+        "updated_at": "2026-08-24T00:26:07Z",
+        "topics": [
+          "agentic-commerce",
+          "human-in-the-loop",
+          "local-first",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "privacy",
+          "self-hosted",
+          "shopping-agent",
+          "typescript"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Open-source MCP server for comparing products and asking the buyer before purchase.",
+        "highlights": [
+          "GitHub Stars：1,207",
+          "主要语言：JavaScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Open-source MCP server for comparing products and asking the buyer before purchase.\n\n项目：cinderline/northcinder。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Open-source MCP server for comparing products and asking the buyer before purchase.\n\n项目：cinderline/northcinder（1,207 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/cinderline-northcinder-843123605b.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/cinderline/northcinder"
+      }
+    }
+  ]
+}
