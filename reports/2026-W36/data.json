@@ -1,0 +1,291 @@
+{
+  "period": "2026-W36",
+  "generated_at": "2026-08-31T07:03:58.223817+00:00",
+  "window_days": 30,
+  "projects": [
+    {
+      "repository": {
+        "node_id": "R_kgDOUArSZw",
+        "full_name": "duty1g/x64dbg-mcp-server",
+        "html_url": "https://github.com/duty1g/x64dbg-mcp-server",
+        "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+        "stargazers_count": 1790,
+        "language": "Zig",
+        "created_at": "2026-08-22T14:28:41Z",
+        "updated_at": "2026-08-31T07:01:59Z",
+        "topics": [
+          "ai-agents",
+          "ai-debugging",
+          "binary-analysis",
+          "claude",
+          "claude-code",
+          "malware-analysis",
+          "malware-research",
+          "malware-scanner",
+          "mcp",
+          "mcp-server",
+          "mcp-servers",
+          "x64dbg",
+          "x64dbg-mcp",
+          "x64dbg-plugin",
+          "x64dbg-tools",
+          "xdbg",
+          "zig",
+          "zig-lang",
+          "ziglang"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+        "highlights": [
+          "GitHub Stars：1,790",
+          "主要语言：Zig",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros\n\n项目：duty1g/x64dbg-mcp-server。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros\n\n项目：duty1g/x64dbg-mcp-server（1,790 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/duty1g-x64dbg-mcp-server-768bc8519f.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/duty1g/x64dbg-mcp-server"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOUHFJRw",
+        "full_name": "XiaoDuoYa/codex-with-chatgpt",
+        "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "stargazers_count": 1544,
+        "language": "TypeScript",
+        "created_at": "2026-08-28T12:57:24Z",
+        "updated_at": "2026-08-31T07:00:51Z",
+        "topics": [
+          "ai-agents",
+          "chatgpt",
+          "codex",
+          "mcp",
+          "model-context-protocol",
+          "oauth"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "codex-with-chatgpt 是一个把 ChatGPT 作为规划大脑、Codex CLI 作为执行终端的桥接项目，让用户可以在保留 Codex 命令行体验的同时，用 ChatGPT 来拆解任务、生成方案并驱动 Codex 完成实际编码工作。",
+        "highlights": [
+          "将 ChatGPT 的对话式规划能力与 Codex CLI 的代码执行能力组合在同一工作流中",
+          "支持通过 OAuth 登录复用现有 ChatGPT 账号，无需额外部署模型服务",
+          "兼容 Model Context Protocol（MCP），可接入外部工具与上下文",
+          "基于 TypeScript 实现，便于在本地或自托管环境中扩展和定制",
+          "面向 AI Agent 场景，强调让模型负责思考、CLI 负责落地的分工模式"
+        ],
+        "use_cases": [
+          "在终端里用自然语言描述需求，由 ChatGPT 拆解后交给 Codex 执行编码与文件操作",
+          "为已有的 Codex CLI 工作流补充更强的任务规划与多轮对话能力",
+          "作为 MCP 客户端示例，演示如何把 ChatGPT 接入支持 MCP 的工具生态",
+          "用于个人或小团队的 AI 辅助开发实验，验证 ChatGPT + Codex 的协同效果"
+        ],
+        "xiaohongshu": "codex-with-chatgpt 是一个把 ChatGPT 当规划大脑、Codex CLI 当执行终端的桥接项目。它让你在保留 Codex 命令行体验的同时，用 ChatGPT 来拆解任务、生成方案，再交给 Codex 完成实际编码与文件操作。亮点包括：基于 TypeScript 实现，支持 OAuth 复用 ChatGPT 账号，兼容 Model Context Protocol（MCP），可接入外部工具与上下文；整体思路是让模型负责思考、CLI 负责落地，适合喜欢在终端里做 AI 辅助开发的用户。适用场景：在终端用自然语言描述需求并由 ChatGPT 拆解后驱动 Codex 执行；为现有 Codex 工作流补充更强的任务规划与多轮对话能力；作为 MCP 客户端示例，演示 ChatGPT 如何接入支持 MCP 的工具生态；用于个人或小团队验证 ChatGPT + Codex 的协同效果。",
+        "xiaoheihe": "codex-with-chatgpt 是一个把 ChatGPT 作为规划大脑、Codex CLI 作为执行终端的桥接项目，核心思路是让 ChatGPT 负责思考与方案生成，Codex 负责实际编码与文件操作。技术栈为 TypeScript，支持通过 OAuth 复用 ChatGPT 账号，并兼容 Model Context Protocol（MCP），可以接入外部工具与上下文。亮点：ChatGPT 与 Codex CLI 的职责分离设计；OAuth 登录降低接入成本；MCP 兼容便于扩展工具链；面向 AI Agent 场景，强调模型规划 + CLI 执行的协同模式。适用场景：在终端用自然语言驱动 Codex 完成开发任务；为已有 Codex 工作流补充更强的任务规划能力；作为 MCP 客户端参考实现；用于个人或小团队探索 ChatGPT + Codex 的协同开发流程。",
+        "generation": "zen"
+      },
+      "image": {
+        "path": "images/XiaoDuoYa-codex-with-chatgpt-91e8c88d6a.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/XiaoDuoYa/codex-with-chatgpt"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOT0PjyQ",
+        "full_name": "lexmount/moli",
+        "html_url": "https://github.com/lexmount/moli",
+        "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+        "stargazers_count": 1509,
+        "language": "Rust",
+        "created_at": "2026-08-10T13:20:30Z",
+        "updated_at": "2026-08-31T06:48:39Z",
+        "topics": [
+          "ai-agents",
+          "ai-tools",
+          "browser",
+          "browser-automation",
+          "cloud-browser",
+          "playwright",
+          "puppeteer",
+          "rust",
+          "servo",
+          "web-crawler",
+          "web-crawling",
+          "web-scraper",
+          "web-scraping"
+        ],
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+        "highlights": [
+          "GitHub Stars：1,509",
+          "主要语言：Rust",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust\n\n项目：lexmount/moli。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust\n\n项目：lexmount/moli（1,509 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/lexmount-moli-3a43ed534d.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOTtPk9g",
+        "full_name": "AMAP-ML/LongHorizon-Harness",
+        "html_url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+        "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+        "stargazers_count": 1412,
+        "language": "Python",
+        "created_at": "2026-08-04T04:30:58Z",
+        "updated_at": "2026-08-31T06:27:33Z",
+        "topics": [
+          "agent",
+          "claude",
+          "claude-code",
+          "claude-plugin",
+          "cli",
+          "codex",
+          "codex-desktop",
+          "codex-plugin",
+          "cua",
+          "deepseek-harness",
+          "gui",
+          "harness",
+          "long-horizon",
+          "long-horizon-agents",
+          "longhorizon-harness",
+          "loop",
+          "loop-engineering"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+        "highlights": [
+          "GitHub Stars：1,412",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.\n\n项目：AMAP-ML/LongHorizon-Harness。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.\n\n项目：AMAP-ML/LongHorizon-Harness（1,412 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/AMAP-ML-LongHorizon-Harness-ae957e6d02.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/AMAP-ML/LongHorizon-Harness"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOT1SS0w",
+        "full_name": "0xsline/awesome-deepseek-harness",
+        "html_url": "https://github.com/0xsline/awesome-deepseek-harness",
+        "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+        "stargazers_count": 957,
+        "language": "Python",
+        "created_at": "2026-08-11T13:14:49Z",
+        "updated_at": "2026-08-31T04:37:00Z",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "ai-tools",
+          "awesome",
+          "awesome-list",
+          "coding-assistant",
+          "curated-list",
+          "deepseek",
+          "deepseek-harness",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "dsh-plugins",
+          "harness",
+          "llm",
+          "mcp",
+          "plugins"
+        ],
+        "license": {
+          "key": "cc0-1.0",
+          "name": "Creative Commons Zero v1.0 Universal",
+          "spdx_id": "CC0-1.0",
+          "url": "https://api.github.com/licenses/cc0-1.0",
+          "node_id": "MDc6TGljZW5zZTY="
+        }
+      },
+      "copy": {
+        "summary": "DeepSeek Harness（DSH）生态的精选资源汇总，整理了围绕 DeepSeek 大模型的插件、工具与基础设施，方便开发者快速发现和接入可复用的能力扩展。",
+        "highlights": [
+          "围绕 DeepSeek 大模型构建的 Harness 框架与插件生态（DSH）",
+          "整合 dsh-external/hub 与 dsh-plugin 公开主题下的精选资源",
+          "覆盖 AI Agent、MCP、编码助手等开发者工具方向",
+          "提供 curated list 形式的插件与基础设施索引，便于发现和选型",
+          "以 Python 生态为主，兼顾 LLM 与 AI Agent 相关项目"
+        ],
+        "use_cases": [
+          "为 DeepSeek 模型选型合适的插件、工具或基础设施",
+          "在 AI Agent / MCP 项目中查找可复用的 DSH 组件",
+          "为编码助手类应用寻找基于 DeepSeek 的扩展能力",
+          "作为团队评估 DeepSeek 周边生态的参考清单",
+          "快速了解 DeepSeek Harness 生态的整体构成与社区资源"
+        ],
+        "xiaohongshu": "DeepSeek Harness（DSH）是一个围绕 DeepSeek 大模型构建的插件与工具生态，本仓库是对该生态资源的精选汇总。它整合了 dsh-external/hub 与公开 dsh-plugin 主题下的项目，覆盖 AI Agent、MCP、编码助手等方向，方便开发者快速找到可复用的能力扩展。适合正在做 DeepSeek 应用、需要挑选插件或评估生态成熟度的工程师参考。",
+        "xiaoheihe": "DeepSeek Harness（DSH）是为 DeepSeek 大模型设计的 Harness 框架与插件生态，本仓库是它的精选资源列表。内容来自 dsh-external/hub 和公开的 dsh-plugin 主题，涵盖 AI Agent、MCP、LLM 工具链与编码助手等场景，以 Python 项目为主。对于想了解 DeepSeek 周边生态、寻找可复用插件或基础设施的开发者来说，可以作为一个索引起点。",
+        "generation": "zen"
+      },
+      "image": {
+        "path": "images/0xsline-awesome-deepseek-harness-f33fa6cd3e.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    }
+  ]
+}

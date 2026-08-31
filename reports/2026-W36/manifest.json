@@ -1,0 +1,38 @@
+{
+  "period": "2026-W36",
+  "generated_at": "2026-08-31T07:03:58.223817+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/duty1g-x64dbg-mcp-server-768bc8519f.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/duty1g/x64dbg-mcp-server"
+    },
+    {
+      "path": "images/XiaoDuoYa-codex-with-chatgpt-91e8c88d6a.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/XiaoDuoYa/codex-with-chatgpt"
+    },
+    {
+      "path": "images/lexmount-moli-3a43ed534d.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/AMAP-ML-LongHorizon-Harness-ae957e6d02.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/AMAP-ML/LongHorizon-Harness"
+    },
+    {
+      "path": "images/0xsline-awesome-deepseek-harness-f33fa6cd3e.png",
+      "source": "本地信息卡",
+      "source_url": null
+    }
+  ]
+}
