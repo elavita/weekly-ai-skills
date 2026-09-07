@@ -1,0 +1,38 @@
+{
+  "period": "2026-W37",
+  "generated_at": "2026-09-07T06:09:19.272129+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/Hisn00w-ASu-skills-518f159927.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/Hisn00w/ASu-skills"
+    },
+    {
+      "path": "images/cbrock84-headcount-1c2bfbeec3.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/cbrock84/headcount"
+    },
+    {
+      "path": "images/totec448-spec-chat-on-steroids-87996f48dd.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/totec448-spec/chat-on-steroids"
+    },
+    {
+      "path": "images/pgrundev-pgbot-f7dc23929f.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/2akouwu-reverify-a8db81e6fd.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/2akouwu/reverify"
+    }
+  ]
+}
