@@ -1,0 +1,238 @@
+{
+  "period": "2026-W38",
+  "generated_at": "2026-09-14T06:22:18.956637+00:00",
+  "window_days": 30,
+  "projects": [
+    {
+      "repository": {
+        "node_id": "R_kgDOULVN7Q",
+        "full_name": "tigerless-labs/agent-memory",
+        "html_url": "https://github.com/tigerless-labs/agent-memory",
+        "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
+        "stargazers_count": 1353,
+        "language": "Python",
+        "created_at": "2026-09-01T21:52:29Z",
+        "updated_at": "2026-09-14T06:02:41Z",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "llm",
+          "local-first",
+          "long-term-memory",
+          "markdown",
+          "mcp",
+          "python",
+          "retrieval",
+          "sqlite"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
+        "highlights": [
+          "GitHub Stars：1,353",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.\n\n项目：tigerless-labs/agent-memory。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.\n\n项目：tigerless-labs/agent-memory（1,353 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/tigerless-labs-agent-memory-f8e8d1386a.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/tigerless-labs/agent-memory"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOUGcTlA",
+        "full_name": "brayonpi/hexstellar",
+        "html_url": "https://github.com/brayonpi/hexstellar",
+        "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+        "stargazers_count": 1198,
+        "language": "Python",
+        "created_at": "2026-08-27T20:53:42Z",
+        "updated_at": "2026-09-14T04:58:15Z",
+        "topics": [],
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+        "highlights": [
+          "GitHub Stars：1,198",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar\n\n项目：brayonpi/hexstellar。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar\n\n项目：brayonpi/hexstellar（1,198 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/brayonpi-hexstellar-ddf61715a4.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/brayonpi/hexstellar"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOUGn4eA",
+        "full_name": "ZJU-REAL/Easel",
+        "html_url": "https://github.com/ZJU-REAL/Easel",
+        "description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
+        "stargazers_count": 1062,
+        "language": "Python",
+        "created_at": "2026-08-28T02:22:27Z",
+        "updated_at": "2026-09-14T06:19:26Z",
+        "topics": [
+          "agent",
+          "agent-skill",
+          "content-automation",
+          "content-creation",
+          "content-generation",
+          "mcp",
+          "openclaw",
+          "social-media",
+          "social-media-management"
+        ],
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
+        "highlights": [
+          "GitHub Stars：1,062",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。\n\n项目：ZJU-REAL/Easel。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。\n\n项目：ZJU-REAL/Easel（1,062 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/ZJU-REAL-Easel-00f2304793.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/ZJU-REAL/Easel/main/assets/readme/showcase/spatialevo-cards-strip.jpg"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOUAqtmw",
+        "full_name": "HanyuanWang/LiveStream-Agent-Studio",
+        "html_url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+        "description": "面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。",
+        "stargazers_count": 1019,
+        "language": "Python",
+        "created_at": "2026-08-22T14:16:48Z",
+        "updated_at": "2026-09-13T06:22:50Z",
+        "topics": [
+          "ai-agent",
+          "douyin",
+          "livestream",
+          "speech-to-text"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。",
+        "highlights": [
+          "GitHub Stars：1,019",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。\n\n项目：HanyuanWang/LiveStream-Agent-Studio。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。\n\n项目：HanyuanWang/LiveStream-Agent-Studio（1,019 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/HanyuanWang-LiveStream-Agent-Studio-c9ff3f3a20.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/HanyuanWang/LiveStream-Agent-Studio"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOUL25_g",
+        "full_name": "adtexterry-lgtm/unigit-ecosystem",
+        "html_url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+        "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+        "stargazers_count": 1009,
+        "language": "JavaScript",
+        "created_at": "2026-09-02T10:08:01Z",
+        "updated_at": "2026-09-14T06:20:28Z",
+        "topics": [
+          "agentic-ai",
+          "ai-tools",
+          "ai-workbench",
+          "ecosystem",
+          "mcp",
+          "productivity",
+          "unigit"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+        "highlights": [
+          "GitHub Stars：1,009",
+          "主要语言：JavaScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：UNIGIT public brand and ecosystem hub — AI should work for everyone.\n\n项目：adtexterry-lgtm/unigit-ecosystem。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：UNIGIT public brand and ecosystem hub — AI should work for everyone.\n\n项目：adtexterry-lgtm/unigit-ecosystem（1,009 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/adtexterry-lgtm-unigit-ecosystem-d480c45b54.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/adtexterry-lgtm/unigit-ecosystem"
+      }
+    }
+  ]
+}
