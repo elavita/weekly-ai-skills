@@ -1,0 +1,38 @@
+{
+  "period": "2026-W39",
+  "generated_at": "2026-09-21T06:25:28.862162+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/jub0t-Concat-64e110d8e5.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/Ryze-AI-Adgent-open-seo-mcp-skills-888299cb05.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/Ryze-AI-Adgent/open-seo-mcp-skills"
+    },
+    {
+      "path": "images/KevinLiss-ApeAdmin-6ced883716.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/KevinLiss/ApeAdmin/master/assets/screenshots/login.png"
+    },
+    {
+      "path": "images/agentverse-os-AgentVerse-OS-6f86849c18.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/agentverse-os/AgentVerse-OS"
+    },
+    {
+      "path": "images/youngyangyang04-llm-master-ef15bc2bc9.png",
+      "source": "本地信息卡",
+      "source_url": null
+    }
+  ]
+}
