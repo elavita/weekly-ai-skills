@@ -1,0 +1,38 @@
+{
+  "period": "2026-W40",
+  "generated_at": "2026-09-28T06:59:40.756775+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/freestylefly-WeChatBridge-0b67c91d1f.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/freestylefly/WeChatBridge/main/Resources/Screenshots/app-icon-rounded.png"
+    },
+    {
+      "path": "images/undefined-ui-second-brain-os-8816117c12.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/undefined-ui/second-brain-os"
+    },
+    {
+      "path": "images/qiz029-dscode-729c4aa2a0.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/qiz029/dscode/main/assets/demo.gif"
+    },
+    {
+      "path": "images/okf-memory-okf-agent-memory-5ce5bcea5c.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/Station-Sciences-bot-crossing-2e4efee2d1.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/Station-Sciences/bot-crossing"
+    }
+  ]
+}

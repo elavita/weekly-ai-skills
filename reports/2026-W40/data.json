@@ -1,0 +1,259 @@
+{
+  "period": "2026-W40",
+  "generated_at": "2026-09-28T06:59:40.756775+00:00",
+  "window_days": 30,
+  "projects": [
+    {
+      "repository": {
+        "node_id": "R_kgDOUjHuHQ",
+        "full_name": "freestylefly/WeChatBridge",
+        "html_url": "https://github.com/freestylefly/WeChatBridge",
+        "description": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+        "stargazers_count": 853,
+        "language": "Swift",
+        "created_at": "2026-09-21T02:54:51Z",
+        "updated_at": "2026-09-28T06:42:11Z",
+        "topics": [
+          "ai-agent",
+          "chat-history",
+          "macos",
+          "obsidian",
+          "share-extension",
+          "swift",
+          "wechat"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+        "highlights": [
+          "GitHub Stars：853",
+          "主要语言：Swift",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具\n\n项目：freestylefly/WeChatBridge。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具\n\n项目：freestylefly/WeChatBridge（853 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/freestylefly-WeChatBridge-0b67c91d1f.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/freestylefly/WeChatBridge/main/Resources/Screenshots/app-icon-rounded.png"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOURWQ0A",
+        "full_name": "undefined-ui/second-brain-os",
+        "html_url": "https://github.com/undefined-ui/second-brain-os",
+        "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
+        "stargazers_count": 756,
+        "language": "HTML",
+        "created_at": "2026-09-07T15:08:13Z",
+        "updated_at": "2026-09-28T06:38:30Z",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "knowledge-graph",
+          "knowledge-management",
+          "llm",
+          "mcp",
+          "obsidian",
+          "personal-knowledge-base",
+          "pkm",
+          "second-brain"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
+        "highlights": [
+          "GitHub Stars：756",
+          "主要语言：HTML",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.\n\n项目：undefined-ui/second-brain-os。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.\n\n项目：undefined-ui/second-brain-os（756 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/undefined-ui-second-brain-os-8816117c12.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/undefined-ui/second-brain-os"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOUWgX9Q",
+        "full_name": "qiz029/dscode",
+        "html_url": "https://github.com/qiz029/dscode",
+        "description": "A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry",
+        "stargazers_count": 735,
+        "language": "JavaScript",
+        "created_at": "2026-09-11T09:40:02Z",
+        "updated_at": "2026-09-28T04:33:35Z",
+        "topics": [
+          "agentic",
+          "ai-agent",
+          "cli",
+          "code-review",
+          "coding-agent",
+          "deepseek",
+          "deepseek-harness",
+          "developer-tools",
+          "jev",
+          "llm",
+          "macos",
+          "mcp",
+          "nodejs",
+          "terminal",
+          "tui"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry",
+        "highlights": [
+          "GitHub Stars：735",
+          "主要语言：JavaScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry\n\n项目：qiz029/dscode。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry\n\n项目：qiz029/dscode（735 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/qiz029-dscode-729c4aa2a0.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/qiz029/dscode/main/assets/demo.gif"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOUPoneg",
+        "full_name": "okf-memory/okf-agent-memory",
+        "html_url": "https://github.com/okf-memory/okf-agent-memory",
+        "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+        "stargazers_count": 731,
+        "language": "Go",
+        "created_at": "2026-09-05T21:26:04Z",
+        "updated_at": "2026-09-28T06:16:22Z",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "bm25",
+          "coding-agents",
+          "developer-tools",
+          "git-native",
+          "go",
+          "golang",
+          "knowledge-base",
+          "knowledge-graph",
+          "llm-memory",
+          "markdown",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "okf",
+          "open-knowledge-format",
+          "persistent-memory"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+        "highlights": [
+          "GitHub Stars：731",
+          "主要语言：Go",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.\n\n项目：okf-memory/okf-agent-memory。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.\n\n项目：okf-memory/okf-agent-memory（731 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/okf-memory-okf-agent-memory-5ce5bcea5c.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOULQHaA",
+        "full_name": "Station-Sciences/bot-crossing",
+        "html_url": "https://github.com/Station-Sciences/bot-crossing",
+        "description": "A video game for AI agents. Created by Jarren Rocks",
+        "stargazers_count": 718,
+        "language": "JavaScript",
+        "created_at": "2026-09-01T19:56:46Z",
+        "updated_at": "2026-09-28T05:54:23Z",
+        "topics": [],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：A video game for AI agents. Created by Jarren Rocks",
+        "highlights": [
+          "GitHub Stars：718",
+          "主要语言：JavaScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：A video game for AI agents. Created by Jarren Rocks\n\n项目：Station-Sciences/bot-crossing。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：A video game for AI agents. Created by Jarren Rocks\n\n项目：Station-Sciences/bot-crossing（718 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/Station-Sciences-bot-crossing-2e4efee2d1.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/Station-Sciences/bot-crossing"
+      }
+    }
+  ]
+}
