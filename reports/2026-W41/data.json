@@ -1,0 +1,257 @@
+{
+  "period": "2026-W41",
+  "generated_at": "2026-10-05T07:07:23.541783+00:00",
+  "window_days": 7,
+  "projects": [
+    {
+      "repository": {
+        "node_id": "R_kgDOUxY7BQ",
+        "full_name": "KKKKhazix/AIHOT",
+        "html_url": "https://github.com/KKKKhazix/AIHOT",
+        "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+        "stargazers_count": 5848,
+        "language": "TypeScript",
+        "created_at": "2026-09-28T23:40:05Z",
+        "updated_at": "2026-10-05T07:05:05Z",
+        "topics": [
+          "ai",
+          "chinese",
+          "content-curation",
+          "daily-digest",
+          "docker-compose",
+          "llm",
+          "mcp",
+          "news-aggregator",
+          "postgresql",
+          "rss",
+          "self-hosted",
+          "typescript"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+        "highlights": [
+          "GitHub Stars：5,848",
+          "主要语言：TypeScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。\n\n项目：KKKKhazix/AIHOT。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。\n\n项目：KKKKhazix/AIHOT（5,848 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/KKKKhazix-AIHOT-0a58d4c9b0.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/KKKKhazix/AIHOT"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOU0THuw",
+        "full_name": "rehan-remade/universal-modder",
+        "html_url": "https://github.com/rehan-remade/universal-modder",
+        "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "stargazers_count": 3386,
+        "language": "Python",
+        "created_at": "2026-09-30T05:00:35Z",
+        "updated_at": "2026-10-05T06:59:38Z",
+        "topics": [
+          "age-of-empires",
+          "claude-code",
+          "claude-code-plugin",
+          "fal",
+          "game-assets",
+          "game-modding",
+          "mcp",
+          "modding",
+          "reverse-engineering",
+          "tmodloader"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+        "highlights": [
+          "GitHub Stars：3,386",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.\n\n项目：rehan-remade/universal-modder。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.\n\n项目：rehan-remade/universal-modder（3,386 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/rehan-remade-universal-modder-0f5f9c8fcb.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/rehan-remade/universal-modder"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOUz_Frw",
+        "full_name": "feder-cr/dots",
+        "html_url": "https://github.com/feder-cr/dots",
+        "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+        "stargazers_count": 2608,
+        "language": "Python",
+        "created_at": "2026-09-29T23:06:00Z",
+        "updated_at": "2026-10-05T06:51:50Z",
+        "topics": [
+          "ai-agent",
+          "ai-agents",
+          "ai-browser",
+          "anti-detect-browser",
+          "browser-agent",
+          "browser-automation",
+          "chatgpt",
+          "dotfiles",
+          "dots",
+          "firefox",
+          "llm-agent",
+          "mcp",
+          "open-source-alternative",
+          "openai",
+          "openai-dots",
+          "openrouter",
+          "playwright",
+          "stealth-browser",
+          "web-agent",
+          "web-automation"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+        "highlights": [
+          "GitHub Stars：2,608",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.\n\n项目：feder-cr/dots。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.\n\n项目：feder-cr/dots（2,608 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/feder-cr-dots-0749844928.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/feder-cr/dots"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOU4jVlA",
+        "full_name": "QingYunA/answer-me-with-html",
+        "html_url": "https://github.com/QingYunA/answer-me-with-html",
+        "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+        "stargazers_count": 1190,
+        "language": "JavaScript",
+        "created_at": "2026-10-02T09:57:40Z",
+        "updated_at": "2026-10-05T07:06:54Z",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "claude-code",
+          "cli",
+          "diagram",
+          "explainer",
+          "html",
+          "llm",
+          "ste100"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+        "highlights": [
+          "GitHub Stars：1,190",
+          "主要语言：JavaScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。\n\n项目：QingYunA/answer-me-with-html。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。\n\n项目：QingYunA/answer-me-with-html（1,190 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/QingYunA-answer-me-with-html-8a8bab0fff.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/QingYunA/answer-me-with-html"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOUxbuGA",
+        "full_name": "openai/mcp-extensions",
+        "html_url": "https://github.com/openai/mcp-extensions",
+        "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+        "stargazers_count": 755,
+        "language": "TypeScript",
+        "created_at": "2026-09-29T00:45:42Z",
+        "updated_at": "2026-10-05T07:06:01Z",
+        "topics": [],
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Build plugins that feel like native, first-class features of ChatGPT.",
+        "highlights": [
+          "GitHub Stars：755",
+          "主要语言：TypeScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Build plugins that feel like native, first-class features of ChatGPT.\n\n项目：openai/mcp-extensions。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Build plugins that feel like native, first-class features of ChatGPT.\n\n项目：openai/mcp-extensions（755 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/openai-mcp-extensions-87ce6bb09e.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/openai/mcp-extensions"
+      }
+    }
+  ]
+}

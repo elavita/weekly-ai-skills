@@ -1,0 +1,38 @@
+{
+  "period": "2026-W41",
+  "generated_at": "2026-10-05T07:07:23.541783+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/KKKKhazix-AIHOT-0a58d4c9b0.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/KKKKhazix/AIHOT"
+    },
+    {
+      "path": "images/rehan-remade-universal-modder-0f5f9c8fcb.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/rehan-remade/universal-modder"
+    },
+    {
+      "path": "images/feder-cr-dots-0749844928.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/feder-cr/dots"
+    },
+    {
+      "path": "images/QingYunA-answer-me-with-html-8a8bab0fff.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/QingYunA/answer-me-with-html"
+    },
+    {
+      "path": "images/openai-mcp-extensions-87ce6bb09e.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/openai/mcp-extensions"
+    }
+  ]
+}
