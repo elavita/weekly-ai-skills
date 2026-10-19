@@ -1,0 +1,248 @@
+{
+  "period": "2026-W43",
+  "generated_at": "2026-10-19T06:15:56.978936+00:00",
+  "window_days": 7,
+  "projects": [
+    {
+      "repository": {
+        "node_id": "R_kgDOVK7wyg",
+        "full_name": "feder-cr/git-ai",
+        "html_url": "https://github.com/feder-cr/git-ai",
+        "description": "Git designed for AI agents.",
+        "stargazers_count": 2321,
+        "language": "Go",
+        "created_at": "2026-10-15T13:12:02Z",
+        "updated_at": "2026-10-19T06:09:59Z",
+        "topics": [
+          "ai-agents",
+          "coding-agents",
+          "git",
+          "golang",
+          "scion",
+          "version-control"
+        ],
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Git designed for AI agents.",
+        "highlights": [
+          "GitHub Stars：2,321",
+          "主要语言：Go",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Git designed for AI agents.\n\n项目：feder-cr/git-ai。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Git designed for AI agents.\n\n项目：feder-cr/git-ai（2,321 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/feder-cr-git-ai-08115787ca.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/feder-cr/git-ai"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVFpz3g",
+        "full_name": "zhuyansen/new-term-radar",
+        "html_url": "https://github.com/zhuyansen/new-term-radar",
+        "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "stargazers_count": 1114,
+        "language": "Python",
+        "created_at": "2026-10-12T07:11:01Z",
+        "updated_at": "2026-10-19T05:57:44Z",
+        "topics": [
+          "agent-skills",
+          "ai",
+          "aisa",
+          "claude-code",
+          "claude-skills",
+          "google-trends",
+          "keyword-research",
+          "mcp",
+          "mcp-server",
+          "seo",
+          "trends"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+        "highlights": [
+          "GitHub Stars：1,114",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.\n\n项目：zhuyansen/new-term-radar。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.\n\n项目：zhuyansen/new-term-radar（1,114 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/zhuyansen-new-term-radar-4b087e0b90.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVKgi0A",
+        "full_name": "Leonxlnx/earshot",
+        "html_url": "https://github.com/Leonxlnx/earshot",
+        "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+        "stargazers_count": 953,
+        "language": "Python",
+        "created_at": "2026-10-15T06:52:46Z",
+        "updated_at": "2026-10-19T06:12:00Z",
+        "topics": [
+          "ai-agents",
+          "audio",
+          "claude-code",
+          "mcp",
+          "sound-design"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+        "highlights": [
+          "GitHub Stars：953",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.\n\n项目：Leonxlnx/earshot。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.\n\n项目：Leonxlnx/earshot（953 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/Leonxlnx-earshot-140d7759e3.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/Leonxlnx/earshot"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVLiueA",
+        "full_name": "LiCinCan/blender-ai-mcp-addon",
+        "html_url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+        "stargazers_count": 790,
+        "language": "Python",
+        "created_at": "2026-10-15T22:30:47Z",
+        "updated_at": "2026-10-19T06:04:30Z",
+        "topics": [
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-extension",
+          "blender-mcp",
+          "blender-plugin",
+          "blender-python",
+          "blender-scripting",
+          "bpy",
+          "chatgpt",
+          "gpt",
+          "llm",
+          "mcp",
+          "mcp-for-blender",
+          "mcp-server",
+          "model-context-protocol",
+          "opencode",
+          "python"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+        "highlights": [
+          "GitHub Stars：790",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.\n\n项目：LiCinCan/blender-ai-mcp-addon。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.\n\n项目：LiCinCan/blender-ai-mcp-addon（790 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/LiCinCan-blender-ai-mcp-addon-be8ba8225d.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/LiCinCan/blender-ai-mcp-addon/main/docs/images/studio.png"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVM98OA",
+        "full_name": "aicodeking/leanrea",
+        "html_url": "https://github.com/aicodeking/leanrea",
+        "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+        "stargazers_count": 692,
+        "language": "Python",
+        "created_at": "2026-10-17T02:53:24Z",
+        "updated_at": "2026-10-19T06:11:49Z",
+        "topics": [],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+        "highlights": [
+          "GitHub Stars：692",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.\n\n项目：aicodeking/leanrea。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.\n\n项目：aicodeking/leanrea（692 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/aicodeking-leanrea-e8e4fd2805.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/aicodeking/leanrea"
+      }
+    }
+  ]
+}

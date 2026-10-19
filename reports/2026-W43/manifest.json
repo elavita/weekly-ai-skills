@@ -1,0 +1,38 @@
+{
+  "period": "2026-W43",
+  "generated_at": "2026-10-19T06:15:56.978936+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/feder-cr-git-ai-08115787ca.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/feder-cr/git-ai"
+    },
+    {
+      "path": "images/zhuyansen-new-term-radar-4b087e0b90.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/Leonxlnx-earshot-140d7759e3.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/Leonxlnx/earshot"
+    },
+    {
+      "path": "images/LiCinCan-blender-ai-mcp-addon-be8ba8225d.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/LiCinCan/blender-ai-mcp-addon/main/docs/images/studio.png"
+    },
+    {
+      "path": "images/aicodeking-leanrea-e8e4fd2805.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/aicodeking/leanrea"
+    }
+  ]
+}
