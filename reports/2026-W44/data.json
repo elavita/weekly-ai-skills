@@ -1,0 +1,249 @@
+{
+  "period": "2026-W44",
+  "generated_at": "2026-10-26T06:19:12.305032+00:00",
+  "window_days": 30,
+  "projects": [
+    {
+      "repository": {
+        "node_id": "R_kgDOU_9jPg",
+        "full_name": "tangency-labs/solidcraft",
+        "html_url": "https://github.com/tangency-labs/solidcraft",
+        "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+        "stargazers_count": 10538,
+        "language": "Rust",
+        "created_at": "2026-10-07T18:57:48Z",
+        "updated_at": "2026-10-26T06:16:45Z",
+        "topics": [
+          "3d-modeling",
+          "brep",
+          "cad",
+          "egui",
+          "mcp",
+          "parametric-cad",
+          "rust",
+          "step",
+          "wasm"
+        ],
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+        "highlights": [
+          "GitHub Stars：10,538",
+          "主要语言：Rust",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.\n\n项目：tangency-labs/solidcraft。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.\n\n项目：tangency-labs/solidcraft（10,538 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/tangency-labs-solidcraft-d5059c4b80.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVF0ZdA",
+        "full_name": "yeqv111/mccarbon",
+        "html_url": "https://github.com/yeqv111/mccarbon",
+        "description": "麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP",
+        "stargazers_count": 1935,
+        "language": "Python",
+        "created_at": "2026-10-12T09:45:08Z",
+        "updated_at": "2026-10-26T05:42:19Z",
+        "topics": [],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP",
+        "highlights": [
+          "GitHub Stars：1,935",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP\n\n项目：yeqv111/mccarbon。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP\n\n项目：yeqv111/mccarbon（1,935 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/yeqv111-mccarbon-3c3ad3ecd2.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/yeqv111/mccarbon/main/examples/carbon-book.html.png"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVBkITw",
+        "full_name": "trhhubsd/ARTEX",
+        "html_url": "https://github.com/trhhubsd/ARTEX",
+        "description": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
+        "stargazers_count": 1930,
+        "language": "Go",
+        "created_at": "2026-10-08T20:35:22Z",
+        "updated_at": "2026-10-26T06:11:10Z",
+        "topics": [
+          "ai-agent",
+          "ai-security",
+          "artex",
+          "autonomous-agents",
+          "cybersecurity",
+          "go",
+          "hacking",
+          "llm",
+          "llm-agent",
+          "mcp",
+          "nextjs",
+          "offensive-security",
+          "penetration-testing",
+          "pentest",
+          "red-team",
+          "security",
+          "security-tools",
+          "vulnerability",
+          "vulnerability-scanners",
+          "web-security"
+        ],
+        "license": {
+          "key": "agpl-3.0",
+          "name": "GNU Affero General Public License v3.0",
+          "spdx_id": "AGPL-3.0",
+          "url": "https://api.github.com/licenses/agpl-3.0",
+          "node_id": "MDc6TGljZW5zZTE="
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
+        "highlights": [
+          "GitHub Stars：1,930",
+          "主要语言：Go",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军\n\n项目：trhhubsd/ARTEX。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军\n\n项目：trhhubsd/ARTEX（1,930 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/trhhubsd-ARTEX-ac56a2fd2d.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/trhhubsd/ARTEX/main/screenshots/dashboard.png"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVLVgEA",
+        "full_name": "zcbacxc/mcd-party-planner",
+        "html_url": "https://github.com/zcbacxc/mcd-party-planner",
+        "description": "麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill",
+        "stargazers_count": 1600,
+        "language": "Python",
+        "created_at": "2026-10-15T18:29:02Z",
+        "updated_at": "2026-10-26T06:15:56Z",
+        "topics": [],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill",
+        "highlights": [
+          "GitHub Stars：1,600",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill\n\n项目：zcbacxc/mcd-party-planner。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill\n\n项目：zcbacxc/mcd-party-planner（1,600 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/zcbacxc-mcd-party-planner-d6d7a28174.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/zcbacxc/mcd-party-planner"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVB2Xgw",
+        "full_name": "hujjun/mcd-saver-strategist",
+        "html_url": "https://github.com/hujjun/mcd-saver-strategist",
+        "description": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
+        "stargazers_count": 1519,
+        "language": "Python",
+        "created_at": "2026-10-09T03:21:52Z",
+        "updated_at": "2026-10-26T06:18:18Z",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "coupon-optimizer",
+          "coupons",
+          "deterministic-optimization",
+          "fast-food",
+          "mcd",
+          "mcdonalds",
+          "mcdonalds-mcp",
+          "mcp",
+          "mcp-server",
+          "money-saving",
+          "python",
+          "workbuddy",
+          "workbuddy-skill"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
+        "highlights": [
+          "GitHub Stars：1,519",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品\n\n项目：hujjun/mcd-saver-strategist。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品\n\n项目：hujjun/mcd-saver-strategist（1,519 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/hujjun-mcd-saver-strategist-e290d1968c.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/hujjun/mcd-saver-strategist/main/docs/preview.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "period": "2026-W44",
+  "generated_at": "2026-10-26T06:19:12.305032+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/tangency-labs-solidcraft-d5059c4b80.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/yeqv111-mccarbon-3c3ad3ecd2.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/yeqv111/mccarbon/main/examples/carbon-book.html.png"
+    },
+    {
+      "path": "images/trhhubsd-ARTEX-ac56a2fd2d.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/trhhubsd/ARTEX/main/screenshots/dashboard.png"
+    },
+    {
+      "path": "images/zcbacxc-mcd-party-planner-d6d7a28174.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/zcbacxc/mcd-party-planner"
+    },
+    {
+      "path": "images/hujjun-mcd-saver-strategist-e290d1968c.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/hujjun/mcd-saver-strategist/main/docs/preview.png"
+    }
+  ]
+}
