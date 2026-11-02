@@ -1,0 +1,222 @@
+{
+  "period": "2026-W45",
+  "generated_at": "2026-11-02T07:42:31.828373+00:00",
+  "window_days": 30,
+  "projects": [
+    {
+      "repository": {
+        "node_id": "R_kgDOVb5hFQ",
+        "full_name": "wangzan101/Mika",
+        "html_url": "https://github.com/wangzan101/Mika",
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "stargazers_count": 4481,
+        "language": "Kotlin",
+        "created_at": "2026-10-29T14:34:07Z",
+        "updated_at": "2026-11-02T07:42:10Z",
+        "topics": [
+          "accessibility",
+          "ai-agent",
+          "android",
+          "automation",
+          "jetpack-compose",
+          "kotlin",
+          "llm",
+          "mobile-agent"
+        ],
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "highlights": [
+          "GitHub Stars：4,481",
+          "主要语言：Kotlin",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：An on-device AI agent for Android that operates apps and the web to get things done for you.\n\n项目：wangzan101/Mika。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：An on-device AI agent for Android that operates apps and the web to get things done for you.\n\n项目：wangzan101/Mika（4,481 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/wangzan101-Mika-7fd9b5f729.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/wangzan101/Mika"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVWezCw",
+        "full_name": "qybaihe/bla",
+        "html_url": "https://github.com/qybaihe/bla",
+        "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+        "stargazers_count": 1890,
+        "language": "JavaScript",
+        "created_at": "2026-10-25T05:25:45Z",
+        "updated_at": "2026-11-02T07:34:15Z",
+        "topics": [
+          "adversarial-ai",
+          "claude-code",
+          "cursor",
+          "electron-security",
+          "llm-security",
+          "mcp",
+          "mcp-server",
+          "obfuscation",
+          "reverse-engineering",
+          "webassembly"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+        "highlights": [
+          "GitHub Stars：1,890",
+          "主要语言：JavaScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.\n\n项目：qybaihe/bla。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.\n\n项目：qybaihe/bla（1,890 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/qybaihe-bla-81557e4454.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/qybaihe/bla"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVSqVHg",
+        "full_name": "CopilotKit/OpenDuet",
+        "html_url": "https://github.com/CopilotKit/OpenDuet",
+        "description": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
+        "stargazers_count": 1813,
+        "language": "TypeScript",
+        "created_at": "2026-10-21T19:43:59Z",
+        "updated_at": "2026-11-02T07:35:42Z",
+        "topics": [],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
+        "highlights": [
+          "GitHub Stars：1,813",
+          "主要语言：TypeScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.\n\n项目：CopilotKit/OpenDuet。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.\n\n项目：CopilotKit/OpenDuet（1,813 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/CopilotKit-OpenDuet-e014852977.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/CopilotKit/OpenDuet"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVMLR1A",
+        "full_name": "cranebeaker/coop-anything",
+        "html_url": "https://github.com/cranebeaker/coop-anything",
+        "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
+        "stargazers_count": 1791,
+        "language": "Python",
+        "created_at": "2026-10-16T11:12:03Z",
+        "updated_at": "2026-11-02T07:30:48Z",
+        "topics": [],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
+        "highlights": [
+          "GitHub Stars：1,791",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.\n\n项目：cranebeaker/coop-anything。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.\n\n项目：cranebeaker/coop-anything（1,791 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/cranebeaker-coop-anything-f254e5f6b9.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/cranebeaker/coop-anything"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVXel6Q",
+        "full_name": "andyhuo520/digital-human-koubo",
+        "html_url": "https://github.com/andyhuo520/digital-human-koubo",
+        "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+        "stargazers_count": 1683,
+        "language": "TypeScript",
+        "created_at": "2026-10-26T04:34:09Z",
+        "updated_at": "2026-11-02T07:41:05Z",
+        "topics": [],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+        "highlights": [
+          "GitHub Stars：1,683",
+          "主要语言：TypeScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …\n\n项目：andyhuo520/digital-human-koubo。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …\n\n项目：andyhuo520/digital-human-koubo（1,683 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/andyhuo520-digital-human-koubo-17bce26538.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/andyhuo520/digital-human-koubo"
+      }
+    }
+  ]
+}

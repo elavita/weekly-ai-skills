@@ -1,0 +1,38 @@
+{
+  "period": "2026-W45",
+  "generated_at": "2026-11-02T07:42:31.828373+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/wangzan101-Mika-7fd9b5f729.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/wangzan101/Mika"
+    },
+    {
+      "path": "images/qybaihe-bla-81557e4454.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/qybaihe/bla"
+    },
+    {
+      "path": "images/CopilotKit-OpenDuet-e014852977.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/CopilotKit/OpenDuet"
+    },
+    {
+      "path": "images/cranebeaker-coop-anything-f254e5f6b9.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/cranebeaker/coop-anything"
+    },
+    {
+      "path": "images/andyhuo520-digital-human-koubo-17bce26538.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/andyhuo520/digital-human-koubo"
+    }
+  ]
+}
