@@ -1,0 +1,265 @@
+{
+  "period": "2026-W46",
+  "generated_at": "2026-11-09T08:01:48.191103+00:00",
+  "window_days": 30,
+  "projects": [
+    {
+      "repository": {
+        "node_id": "R_kgDOVhF2rg",
+        "full_name": "KKKKhazix/agent-autoloop",
+        "html_url": "https://github.com/KKKKhazix/agent-autoloop",
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "stargazers_count": 4189,
+        "language": "TypeScript",
+        "created_at": "2026-11-03T08:02:11Z",
+        "updated_at": "2026-11-09T07:55:09Z",
+        "topics": [
+          "ai-agents",
+          "automation",
+          "claude-code",
+          "cli",
+          "codex",
+          "event-driven",
+          "mcp",
+          "nodejs",
+          "self-hosted",
+          "typescript",
+          "workflow"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "highlights": [
+          "GitHub Stars：4,189",
+          "主要语言：TypeScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。\n\n项目：KKKKhazix/agent-autoloop。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。\n\n项目：KKKKhazix/agent-autoloop（4,189 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/KKKKhazix-agent-autoloop-3b40dda299.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVWq3rA",
+        "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
+        "html_url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+        "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+        "stargazers_count": 2218,
+        "language": "Python",
+        "created_at": "2026-10-25T10:05:56Z",
+        "updated_at": "2026-11-09T07:42:53Z",
+        "topics": [
+          "agent-skills",
+          "archives",
+          "claude-code",
+          "codex",
+          "family-history",
+          "familysearch",
+          "genealogy",
+          "ussr"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+        "highlights": [
+          "GitHub Stars：2,218",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.\n\n项目：DenisSergeevitch/ex-ussr-kinship-research。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.\n\n项目：DenisSergeevitch/ex-ussr-kinship-research（2,218 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/DenisSergeevitch-ex-ussr-kinship-research-feaa6d0c95.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVLn4jQ",
+        "full_name": "reacher-z/Awesome-REA",
+        "html_url": "https://github.com/reacher-z/Awesome-REA",
+        "description": "Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.",
+        "stargazers_count": 2177,
+        "language": "Python",
+        "created_at": "2026-10-16T00:42:04Z",
+        "updated_at": "2026-11-09T07:57:33Z",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "android-reverse-engineering",
+          "awesome",
+          "awesome-list",
+          "awesome-resources",
+          "binary-analysis",
+          "decompilation",
+          "firmware-analysis",
+          "game-reversing",
+          "ghidra",
+          "ios-reverse-engineering",
+          "javascript-deobfuscation",
+          "mcp",
+          "protocol-analysis",
+          "rea",
+          "research-papers",
+          "reverse-engineering",
+          "static-analysis",
+          "web-reverse-engineering"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.",
+        "highlights": [
+          "GitHub Stars：2,177",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.\n\n项目：reacher-z/Awesome-REA。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.\n\n项目：reacher-z/Awesome-REA（2,177 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/reacher-z-Awesome-REA-dc38d7a308.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/reacher-z/Awesome-REA"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVajivw",
+        "full_name": "lexifina/global-law",
+        "html_url": "https://github.com/lexifina/global-law",
+        "description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
+        "stargazers_count": 1892,
+        "language": "HTML",
+        "created_at": "2026-10-28T13:34:16Z",
+        "updated_at": "2026-11-09T08:01:34Z",
+        "topics": [
+          "git",
+          "law",
+          "legal-tech",
+          "legislation",
+          "mcp",
+          "open-data"
+        ],
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：The world's law in git: any provision, any country, any date, and the law that wrote each word.",
+        "highlights": [
+          "GitHub Stars：1,892",
+          "主要语言：HTML",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：The world's law in git: any provision, any country, any date, and the law that wrote each word.\n\n项目：lexifina/global-law。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：The world's law in git: any provision, any country, any date, and the law that wrote each word.\n\n项目：lexifina/global-law（1,892 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/lexifina-global-law-a3e10c5ebe.png",
+        "source": "GitHub Open Graph",
+        "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/lexifina/global-law"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVMdAHw",
+        "full_name": "reason-machines/reason-network",
+        "html_url": "https://github.com/reason-machines/reason-network",
+        "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+        "stargazers_count": 1685,
+        "language": "Rust",
+        "created_at": "2026-10-16T15:34:34Z",
+        "updated_at": "2026-11-09T06:53:50Z",
+        "topics": [
+          "agent-to-agent",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "coding-agents",
+          "cursor",
+          "grok",
+          "iroh",
+          "mcp",
+          "mcp-server",
+          "multi-agent",
+          "peer-to-peer",
+          "reason"
+        ],
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+        "highlights": [
+          "GitHub Stars：1,685",
+          "主要语言：Rust",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.\n\n项目：reason-machines/reason-network。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.\n\n项目：reason-machines/reason-network（1,685 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/reason-machines-reason-network-585fb68335.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    }
+  ]
+}

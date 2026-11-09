@@ -1,0 +1,38 @@
+{
+  "period": "2026-W46",
+  "generated_at": "2026-11-09T08:01:48.191103+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/KKKKhazix-agent-autoloop-3b40dda299.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/DenisSergeevitch-ex-ussr-kinship-research-feaa6d0c95.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/reacher-z-Awesome-REA-dc38d7a308.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/reacher-z/Awesome-REA"
+    },
+    {
+      "path": "images/lexifina-global-law-a3e10c5ebe.png",
+      "source": "GitHub Open Graph",
+      "source_url": "https://opengraph.githubassets.com/ai-skill-weekly/lexifina/global-law"
+    },
+    {
+      "path": "images/reason-machines-reason-network-585fb68335.png",
+      "source": "本地信息卡",
+      "source_url": null
+    }
+  ]
+}
