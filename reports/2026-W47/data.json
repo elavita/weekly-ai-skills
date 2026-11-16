@@ -1,0 +1,307 @@
+{
+  "period": "2026-W47",
+  "generated_at": "2026-11-16T08:01:39.339935+00:00",
+  "window_days": 7,
+  "projects": [
+    {
+      "repository": {
+        "node_id": "R_kgDOVr_k6w",
+        "full_name": "hitkeeen/blender-ai-mcp-addon",
+        "html_url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "stargazers_count": 1857,
+        "language": null,
+        "created_at": "2026-11-12T14:32:15Z",
+        "updated_at": "2026-11-16T07:54:43Z",
+        "topics": [
+          "ai-agents",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-mcp",
+          "blender-plugin",
+          "blender-scripting",
+          "bpy",
+          "chatgpt",
+          "claude",
+          "gemini",
+          "llm",
+          "mcp",
+          "mcp-for-blender",
+          "mcp-server",
+          "model-context-protocol",
+          "ollama",
+          "opencode"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "highlights": [
+          "GitHub Stars：1,857",
+          "主要语言：未标注",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.\n\n项目：hitkeeen/blender-ai-mcp-addon。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.\n\n项目：hitkeeen/blender-ai-mcp-addon（1,857 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/hitkeeen-blender-ai-mcp-addon-da2dd98be6.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/hitkeeen/blender-ai-mcp-addon/main/docs/images/studio.png"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVp0Log",
+        "full_name": "FrigadeHQ/yogurt",
+        "html_url": "https://github.com/FrigadeHQ/yogurt",
+        "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+        "stargazers_count": 1719,
+        "language": "TypeScript",
+        "created_at": "2026-11-10T20:01:01Z",
+        "updated_at": "2026-11-16T07:59:15Z",
+        "topics": [
+          "ai-meeting-assistant",
+          "ai-notetaker",
+          "electron",
+          "granola-alternative",
+          "linux",
+          "llama-cpp",
+          "local-ai",
+          "local-first",
+          "macos",
+          "mcp",
+          "meeting-minutes",
+          "meeting-notes",
+          "offline-first",
+          "open-source",
+          "privacy",
+          "speech-to-text",
+          "transcription",
+          "whisper",
+          "whisper-cpp",
+          "windows"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+        "highlights": [
+          "GitHub Stars：1,719",
+          "主要语言：TypeScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.\n\n项目：FrigadeHQ/yogurt。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.\n\n项目：FrigadeHQ/yogurt（1,719 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/FrigadeHQ-yogurt-b8f9857863.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/FrigadeHQ/yogurt/main/docs/assets/yogurt-screenshot.webp"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVsTdLQ",
+        "full_name": "credoksopho1984/blender-ai-copilot-studio",
+        "html_url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+        "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server",
+        "stargazers_count": 513,
+        "language": null,
+        "created_at": "2026-11-12T19:30:32Z",
+        "updated_at": "2026-11-15T19:24:46Z",
+        "topics": [
+          "3d-automation",
+          "3d-modeling",
+          "blender",
+          "blender-addon",
+          "blender-agents",
+          "blender-ai",
+          "blender-assistant",
+          "blender-automation",
+          "blender-chatgpt",
+          "blender-copilot",
+          "blender-extension",
+          "blender-llm",
+          "blender-mcp",
+          "blender-plugin",
+          "blender-scripting",
+          "blender3d",
+          "bpy",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server",
+        "highlights": [
+          "GitHub Stars：513",
+          "主要语言：未标注",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server\n\n项目：credoksopho1984/blender-ai-copilot-studio。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server\n\n项目：credoksopho1984/blender-ai-copilot-studio（513 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/credoksopho1984-blender-ai-copilot-studio-3d601b7784.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVsTVAA",
+        "full_name": "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "html_url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+        "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
+        "stargazers_count": 511,
+        "language": null,
+        "created_at": "2026-11-12T19:28:20Z",
+        "updated_at": "2026-11-15T19:11:09Z",
+        "topics": [
+          "3d-automation",
+          "3d-modeling",
+          "blender",
+          "blender-addon",
+          "blender-agents",
+          "blender-ai",
+          "blender-assistant",
+          "blender-automation",
+          "blender-chatgpt",
+          "blender-copilot",
+          "blender-extension",
+          "blender-llm",
+          "blender-mcp",
+          "blender-plugin",
+          "blender-scripting",
+          "blender3d",
+          "bpy",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
+        "highlights": [
+          "GitHub Stars：511",
+          "主要语言：未标注",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro\n\n项目：racdeufindurch198812/Blender-AI-MCP-Studio。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro\n\n项目：racdeufindurch198812/Blender-AI-MCP-Studio（511 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/racdeufindurch198812-Blender-AI-MCP-Studio-a27f5a799c.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVsT7zA",
+        "full_name": "tiobeharxi1987/blender-ai-copilot-flow",
+        "html_url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+        "description": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension",
+        "stargazers_count": 510,
+        "language": null,
+        "created_at": "2026-11-12T19:38:53Z",
+        "updated_at": "2026-11-15T20:53:01Z",
+        "topics": [
+          "3d-automation",
+          "3d-modeling",
+          "blender",
+          "blender-addon",
+          "blender-agents",
+          "blender-ai",
+          "blender-assistant",
+          "blender-automation",
+          "blender-chatgpt",
+          "blender-copilot",
+          "blender-extension",
+          "blender-llm",
+          "blender-mcp",
+          "blender-plugin",
+          "blender-scripting",
+          "blender3d",
+          "bpy",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension",
+        "highlights": [
+          "GitHub Stars：510",
+          "主要语言：未标注",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension\n\n项目：tiobeharxi1987/blender-ai-copilot-flow。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension\n\n项目：tiobeharxi1987/blender-ai-copilot-flow（510 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/tiobeharxi1987-blender-ai-copilot-flow-4584dc5678.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "period": "2026-W47",
+  "generated_at": "2026-11-16T08:01:39.339935+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/hitkeeen-blender-ai-mcp-addon-da2dd98be6.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/hitkeeen/blender-ai-mcp-addon/main/docs/images/studio.png"
+    },
+    {
+      "path": "images/FrigadeHQ-yogurt-b8f9857863.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/FrigadeHQ/yogurt/main/docs/assets/yogurt-screenshot.webp"
+    },
+    {
+      "path": "images/credoksopho1984-blender-ai-copilot-studio-3d601b7784.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/racdeufindurch198812-Blender-AI-MCP-Studio-a27f5a799c.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/tiobeharxi1987-blender-ai-copilot-flow-4584dc5678.png",
+      "source": "本地信息卡",
+      "source_url": null
+    }
+  ]
+}
