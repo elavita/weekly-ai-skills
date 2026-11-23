@@ -1,0 +1,38 @@
+{
+  "period": "2026-W48",
+  "generated_at": "2026-11-23T09:09:52.051268+00:00",
+  "project_count": 5,
+  "files": [
+    "report.md",
+    "data.json",
+    "xiaohongshu.md",
+    "xiaoheihe.md"
+  ],
+  "images": [
+    {
+      "path": "images/erkamyaman-rust-anything-ff980d4e61.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/bookwjitchieni1986-blender-ai-mcp-addon-dc5622a338.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/bookwjitchieni1986/blender-ai-mcp-addon/main/docs/images/studio.png"
+    },
+    {
+      "path": "images/EL4CTEO-fast-anything-9b88957362.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/EL4CTEO/fast-anything/main/docs/assets/demo.gif"
+    },
+    {
+      "path": "images/boringmarketer-boring-marketing-skills-679016373b.png",
+      "source": "本地信息卡",
+      "source_url": null
+    },
+    {
+      "path": "images/INK-Q-agy-fast-da4089f94a.png",
+      "source": "README",
+      "source_url": "https://raw.githubusercontent.com/INK-Q/agy-fast/main/assets/demo-before-after.gif"
+    }
+  ]
+}

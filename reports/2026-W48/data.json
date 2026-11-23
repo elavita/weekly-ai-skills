@@ -1,0 +1,295 @@
+{
+  "period": "2026-W48",
+  "generated_at": "2026-11-23T09:09:52.051268+00:00",
+  "window_days": 7,
+  "projects": [
+    {
+      "repository": {
+        "node_id": "R_kgDOVwVmZA",
+        "full_name": "erkamyaman/rust-anything",
+        "html_url": "https://github.com/erkamyaman/rust-anything",
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+        "stargazers_count": 8310,
+        "language": "Rust",
+        "created_at": "2026-11-16T12:10:36Z",
+        "updated_at": "2026-11-23T09:09:27Z",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "cli",
+          "code-migration",
+          "codex",
+          "ffi",
+          "golang",
+          "java",
+          "javascript",
+          "mcp",
+          "migration",
+          "napi",
+          "performance",
+          "porting",
+          "pyo3",
+          "python",
+          "rewrite",
+          "ruby",
+          "rust",
+          "typescript"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+        "highlights": [
+          "GitHub Stars：8,310",
+          "主要语言：Rust",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.\n\n项目：erkamyaman/rust-anything。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.\n\n项目：erkamyaman/rust-anything（8,310 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/erkamyaman-rust-anything-ff980d4e61.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOV0cDSA",
+        "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "html_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "stargazers_count": 2759,
+        "language": null,
+        "created_at": "2026-11-19T14:43:10Z",
+        "updated_at": "2026-11-23T09:00:46Z",
+        "topics": [
+          "ai-agents",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-mcp",
+          "blender-plugin",
+          "blender-scripting",
+          "bpy",
+          "chatgpt",
+          "claude",
+          "gemini",
+          "llm",
+          "mcp",
+          "mcp-for-blender",
+          "mcp-server",
+          "model-context-protocol",
+          "ollama",
+          "opencode"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "highlights": [
+          "GitHub Stars：2,759",
+          "主要语言：未标注",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.\n\n项目：bookwjitchieni1986/blender-ai-mcp-addon。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.\n\n项目：bookwjitchieni1986/blender-ai-mcp-addon（2,759 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/bookwjitchieni1986-blender-ai-mcp-addon-dc5622a338.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/bookwjitchieni1986/blender-ai-mcp-addon/main/docs/images/studio.png"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOV2sUSw",
+        "full_name": "EL4CTEO/fast-anything",
+        "html_url": "https://github.com/EL4CTEO/fast-anything",
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+        "stargazers_count": 2456,
+        "language": "Rust",
+        "created_at": "2026-11-21T14:40:27Z",
+        "updated_at": "2026-11-23T09:09:07Z",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "codex",
+          "developer-tools",
+          "ffi",
+          "mcp",
+          "mcp-server",
+          "napi-rs",
+          "nodejs",
+          "optimization",
+          "performance",
+          "profiler",
+          "pyo3",
+          "python",
+          "rewrite-it-in-rust",
+          "ruby",
+          "rust",
+          "typescript"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+        "highlights": [
+          "GitHub Stars：2,456",
+          "主要语言：Rust",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.\n\n项目：EL4CTEO/fast-anything。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.\n\n项目：EL4CTEO/fast-anything（2,456 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/EL4CTEO-fast-anything-9b88957362.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/EL4CTEO/fast-anything/main/docs/assets/demo.gif"
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVwiXBA",
+        "full_name": "boringmarketer/boring-marketing-skills",
+        "html_url": "https://github.com/boringmarketer/boring-marketing-skills",
+        "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+        "stargazers_count": 801,
+        "language": "Python",
+        "created_at": "2026-11-16T15:09:46Z",
+        "updated_at": "2026-11-23T07:22:37Z",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "copywriting",
+          "local-seo",
+          "marketing",
+          "seo"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+        "highlights": [
+          "GitHub Stars：801",
+          "主要语言：Python",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.\n\n项目：boringmarketer/boring-marketing-skills。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.\n\n项目：boringmarketer/boring-marketing-skills（801 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/boringmarketer-boring-marketing-skills-679016373b.png",
+        "source": "本地信息卡",
+        "source_url": null
+      }
+    },
+    {
+      "repository": {
+        "node_id": "R_kgDOVz4IQg",
+        "full_name": "INK-Q/agy-fast",
+        "html_url": "https://github.com/INK-Q/agy-fast",
+        "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+        "stargazers_count": 645,
+        "language": "TypeScript",
+        "created_at": "2026-11-19T04:58:46Z",
+        "updated_at": "2026-11-23T09:03:21Z",
+        "topics": [
+          "ai-agent",
+          "ai-coding",
+          "antigravity",
+          "antigravity-cli",
+          "antigravity-ide",
+          "antigravity-plugins",
+          "coding-agent",
+          "context-optimization",
+          "developer-productivity",
+          "developer-tools",
+          "gemini",
+          "google-antigravity",
+          "latency-optimization",
+          "mcp",
+          "mcp-plugin",
+          "mcp-server",
+          "model-context-protocol",
+          "performance",
+          "plugin",
+          "token-optimization"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "copy": {
+        "summary": "这是一个值得进一步了解的 AI 项目；原始简介：Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+        "highlights": [
+          "GitHub Stars：645",
+          "主要语言：TypeScript",
+          "内容来自公开仓库元数据，发布前建议人工核对 README。"
+        ],
+        "use_cases": [
+          "评估其在 AI Agent、MCP 或开发工具工作流中的适用性"
+        ],
+        "xiaohongshu": "这是一个值得进一步了解的 AI 项目；原始简介：Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.\n\n项目：INK-Q/agy-fast。发布前请先核对许可证和数据安全要求。",
+        "xiaoheihe": "这是一个值得进一步了解的 AI 项目；原始简介：Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.\n\n项目：INK-Q/agy-fast（645 Stars）。",
+        "generation": "fallback"
+      },
+      "image": {
+        "path": "images/INK-Q-agy-fast-da4089f94a.png",
+        "source": "README",
+        "source_url": "https://raw.githubusercontent.com/INK-Q/agy-fast/main/assets/demo-before-after.gif"
+      }
+    }
+  ]
+}
